@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <attachments>
+        <content>UHJpbnRlcnMNClxcZHViLXByaW50LXdwMSA=</content>
+        <name>Printers.txt</name>
+    </attachments>
     <available>true</available>
     <description>Test Mass email HTML</description>
     <encodingKey>ISO-8859-1</encodingKey>

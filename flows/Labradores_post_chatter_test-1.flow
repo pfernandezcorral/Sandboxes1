@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <name>Post_to_chatter</name>
+        <label>Post to chatter</label>
+        <locationX>445</locationX>
+        <locationY>237</locationY>
+        <actionName>chatterPost</actionName>
+        <actionType>chatterPost</actionType>
+        <inputParameters>
+            <name>subjectNameOrId</name>
+            <value>
+                <elementReference>CaseID</elementReference>
+            </value>
+        </inputParameters>
+        <inputParameters>
+            <name>text</name>
+            <value>
+                <elementReference>body</elementReference>
+            </value>
+        </inputParameters>
+    </actionCalls>
+    <assignments>
+        <name>Gather_Case_Info</name>
+        <label>Gather Case Info</label>
+        <locationX>166</locationX>
+        <locationY>236</locationY>
+        <assignmentItems>
+            <assignToReference>CaseID</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <elementReference>CaseID</elementReference>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>Post_to_chatter</targetReference>
+        </connector>
+    </assignments>
+    <interviewLabel>Labradores post chatter test {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Labradores post chatter test</label>
+    <processType>AutoLaunchedFlow</processType>
+    <startElementReference>Gather_Case_Info</startElementReference>
+    <variables>
+        <name>body</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+        <value>
+            <stringValue>Body</stringValue>
+        </value>
+    </variables>
+    <variables>
+        <name>CaseID</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>

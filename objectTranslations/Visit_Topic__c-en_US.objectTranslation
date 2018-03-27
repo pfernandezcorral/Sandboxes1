@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Visit Topic</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Visit Topics</value>
+    </caseValues>
+    <fields>
+        <label><!-- Business Category --></label>
+        <name>Business_Category__c</name>
+        <picklistValues>
+            <masterLabel>Business Category 1</masterLabel>
+            <translation><!-- Business Category 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Category 2</masterLabel>
+            <translation><!-- Business Category 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Category 3</masterLabel>
+            <translation><!-- Business Category 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Category 4</masterLabel>
+            <translation><!-- Business Category 4 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Category --></label>
+        <name>Category__c</name>
+        <picklistValues>
+            <masterLabel>Category 1</masterLabel>
+            <translation><!-- Category 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Category 2</masterLabel>
+            <translation><!-- Category 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Category 3</masterLabel>
+            <translation><!-- Category 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Category 4</masterLabel>
+            <translation><!-- Category 4 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sub category --></label>
+        <name>Sub_category__c</name>
+        <picklistValues>
+            <masterLabel>Sub Category 1</masterLabel>
+            <translation><!-- Sub Category 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sub Category 2</masterLabel>
+            <translation><!-- Sub Category 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sub Category 3</masterLabel>
+            <translation><!-- Sub Category 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sub Category 4</masterLabel>
+            <translation><!-- Sub Category 4 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Topic --></label>
+        <name>Topic__c</name>
+        <relationshipLabel><!-- Visit Topics --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>test_recaclulate</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>test recaclulate</label>
+        <sharedTo>
+            <group>X3_users</group>
+        </sharedTo>
+        <criteriaItems>
+            <field>City</field>
+            <operation>equals</operation>
+            <value>Zamora</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingOwnerRules>
+        <fullName>test_sharing</fullName>
+        <accessLevel>Read</accessLevel>
+        <label>test sharing</label>
+        <sharedTo>
+            <role>SalesDirectorUS</role>
+        </sharedTo>
+        <sharedFrom>
+            <role>SalesRepEMEA</role>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>

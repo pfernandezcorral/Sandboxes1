@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>LiveAgentSession$Name</field>
+    </columns>
+    <columns>
+        <field>LiveAgentSession$Agent</field>
+    </columns>
+    <columns>
+        <field>LiveAgentSession$ChatReqAssigned</field>
+    </columns>
+    <columns>
+        <field>LiveAgentSession$CreatedDate</field>
+    </columns>
+    <currency>GBP</currency>
+    <format>Tabular</format>
+    <name>Chat Request Assigned</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>Live_Agent_Sessions__c</reportType>
+    <scope>user</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>LiveAgentSession$CreatedDate</dateColumn>
+        <interval>INTERVAL_CURRENT</interval>
+    </timeFrameFilter>
+</Report>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>test label</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>tests label</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- tests label --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- tests label --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- CurrentUser$Manager2 --></label>
+        <name>CurrentUser_Manager2__c</name>
+    </fields>
+    <fields>
+        <label><!-- User --></label>
+        <name>User__c</name>
+        <relationshipLabel><!-- tests label --></relationshipLabel>
+    </fields>
+    <recordTypes>
+        <label><!-- Ciudad --></label>
+        <name>Ciudad</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Rural --></label>
+        <name>Rural</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

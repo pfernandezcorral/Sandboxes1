@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Attendant</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Attendants</value>
+    </caseValues>
+    <fields>
+        <label><!-- Completed --></label>
+        <name>Completed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Completion Date --></label>
+        <name>Completion_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee Amount --></label>
+        <name>Fee_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee Paid --></label>
+        <name>Fee_Paid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Late Fee --></label>
+        <name>Late_Fee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Trainee --></label>
+        <name>Trainee__c</name>
+        <relationshipLabel><!-- Attendants --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Training Course --></label>
+        <name>Training_Course__c</name>
+        <relationshipLabel><!-- Attendants --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- attendees fee must be €100 more than the course fee because they are marked for a late fee. --></errorMessage>
+        <name>Marked_for_a_late_fee</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- There is no slots available. --></errorMessage>
+        <name>slots_available_to_create_records</name>
+    </validationRules>
+</CustomObjectTranslation>

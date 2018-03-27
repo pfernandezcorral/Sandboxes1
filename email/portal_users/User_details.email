@@ -1,0 +1,3 @@
+Hola {!Case.OwnerFirstName}
+
+This is the user sending the email: {!User.FirstName}

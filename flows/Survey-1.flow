@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <choices>
+        <name>AMERICAS</name>
+        <choiceText>AMERICAS</choiceText>
+        <dataType>String</dataType>
+        <value>
+            <stringValue>AMERICAS</stringValue>
+        </value>
+    </choices>
+    <choices>
+        <name>EMEA</name>
+        <choiceText>EMEA</choiceText>
+        <dataType>String</dataType>
+        <value>
+            <stringValue>EMEA</stringValue>
+        </value>
+    </choices>
+    <choices>
+        <name>US_New_York</name>
+        <choiceText>US: New York</choiceText>
+        <dataType>String</dataType>
+        <value>
+            <stringValue>NY</stringValue>
+        </value>
+    </choices>
+    <choices>
+        <name>US_San_Francisco</name>
+        <choiceText>US: San Francisco</choiceText>
+        <dataType>String</dataType>
+        <value>
+            <stringValue>SF</stringValue>
+        </value>
+    </choices>
+    <decisions>
+        <name>Route_based_on_region</name>
+        <label>Route based on region</label>
+        <locationX>507</locationX>
+        <locationY>148</locationY>
+        <defaultConnectorLabel>EMEA</defaultConnectorLabel>
+        <rules>
+            <name>AMERICASS</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>AMERICAS</leftValueReference>
+                <operator>WasSelected</operator>
+                <rightValue>
+                    <booleanValue>true</booleanValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Get_Office_and_Commute_Days_AMERICAS</targetReference>
+            </connector>
+            <label>AMERICAS</label>
+        </rules>
+    </decisions>
+    <label>Survey</label>
+    <processType>Flow</processType>
+    <recordUpdates>
+        <name>Update</name>
+        <label>Update</label>
+        <locationX>499</locationX>
+        <locationY>563</locationY>
+        <filters>
+            <field>CaseNumber</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>Case_Number</elementReference>
+            </value>
+        </filters>
+        <inputAssignments>
+            <field>text_5000__c</field>
+            <value>
+                <elementReference>Infoprovided</elementReference>
+            </value>
+        </inputAssignments>
+        <object>Case</object>
+    </recordUpdates>
+    <screens>
+        <name>Get_Office_and_Commute_Days_AMERICAS</name>
+        <label>Office and Commute Days</label>
+        <locationX>313</locationX>
+        <locationY>303</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>Thank_you</targetReference>
+        </connector>
+        <fields>
+            <name>Office_Location_Americas</name>
+            <choiceReferences>US_San_Francisco</choiceReferences>
+            <choiceReferences>US_New_York</choiceReferences>
+            <dataType>String</dataType>
+            <fieldText>Office Location</fieldText>
+            <fieldType>RadioButtons</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+        <fields>
+            <name>Number_of_Days_AMERICAS</name>
+            <dataType>String</dataType>
+            <fieldText>How many days a week do you commute to work?</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+        <fields>
+            <name>Case_Number</name>
+            <dataType>String</dataType>
+            <fieldText>Case Number</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+    </screens>
+    <screens>
+        <name>Thank_you</name>
+        <label>Thank you</label>
+        <locationX>501</locationX>
+        <locationY>439</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>Update</targetReference>
+        </connector>
+        <fields>
+            <name>Thankyou</name>
+            <fieldText>Thank you for the info provided.</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <fields>
+            <name>Infoprovided</name>
+            <fieldText>{!In_which_region_do_you_work}
+{!Office_Location_Americas}
+{!Number_of_Days_AMERICAS}</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+    </screens>
+    <screens>
+        <name>Welcome_to_the_Sustainability</name>
+        <label>Welcome to the Sustainability</label>
+        <locationX>507</locationX>
+        <locationY>31</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>Route_based_on_region</targetReference>
+        </connector>
+        <fields>
+            <name>SurveyIntro</name>
+            <fieldText>Thank you for spending the next seven minutes on this commute survey.
+Your participation will help us assess our environmental footprint as a company and
+help us plan better transportation options as we grow. At the end of the survey,
+enter your email address for the chance to win a $250 gift card! One winner will be
+chosen at random.</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <fields>
+            <name>In_which_region_do_you_work</name>
+            <choiceReferences>AMERICAS</choiceReferences>
+            <choiceReferences>EMEA</choiceReferences>
+            <dataType>String</dataType>
+            <fieldText>In which region do you work?</fieldText>
+            <fieldType>RadioButtons</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+    </screens>
+    <startElementReference>Welcome_to_the_Sustainability</startElementReference>
+</Flow>

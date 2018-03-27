@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Account ID --></label>
+        <name>Account_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active2 --></label>
+        <name>Active2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Approve --></label>
+        <name>Approve__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Country Custom --></label>
+        <name>Country_Custom__c</name>
+        <picklistValues>
+            <masterLabel>France</masterLabel>
+            <translation><!-- France --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Germany</masterLabel>
+            <translation><!-- Germany --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spain</masterLabel>
+            <translation><!-- Spain --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Custom email --></label>
+        <name>Custom_email__c</name>
+    </fields>
+    <fields>
+        <label><!-- DAAte --></label>
+        <name>DAAte__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date active --></label>
+        <name>Date_active__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date frozen --></label>
+        <name>Date_frozen__c</name>
+    </fields>
+    <fields>
+        <label><!-- End Date --></label>
+        <name>End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Event Date --></label>
+        <name>EventDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Event Time --></label>
+        <name>EventTime__c</name>
+        <picklistValues>
+            <masterLabel>07:00</masterLabel>
+            <translation><!-- 07:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>07:30</masterLabel>
+            <translation><!-- 07:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>08:00</masterLabel>
+            <translation><!-- 08:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>08:30</masterLabel>
+            <translation><!-- 08:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>09:00</masterLabel>
+            <translation><!-- 09:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>09:30</masterLabel>
+            <translation><!-- 09:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10:00</masterLabel>
+            <translation><!-- 10:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10:30</masterLabel>
+            <translation><!-- 10:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11:00</masterLabel>
+            <translation><!-- 11:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11:30</masterLabel>
+            <translation><!-- 11:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12:00</masterLabel>
+            <translation><!-- 12:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12:30</masterLabel>
+            <translation><!-- 12:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13:00</masterLabel>
+            <translation><!-- 13:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13:30</masterLabel>
+            <translation><!-- 13:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>14:00</masterLabel>
+            <translation><!-- 14:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>14:30</masterLabel>
+            <translation><!-- 14:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15:00</masterLabel>
+            <translation><!-- 15:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15:30</masterLabel>
+            <translation><!-- 15:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>16:00</masterLabel>
+            <translation><!-- 16:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>16:30</masterLabel>
+            <translation><!-- 16:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>17:00</masterLabel>
+            <translation><!-- 17:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>17:30</masterLabel>
+            <translation><!-- 17:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>18:00</masterLabel>
+            <translation><!-- 18:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>18:30</masterLabel>
+            <translation><!-- 18:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>19:00</masterLabel>
+            <translation><!-- 19:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>19:30</masterLabel>
+            <translation><!-- 19:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20:00</masterLabel>
+            <translation><!-- 20:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20:30</masterLabel>
+            <translation><!-- 20:30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>21:00</masterLabel>
+            <translation><!-- 21:00 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>21:30</masterLabel>
+            <translation><!-- 21:30 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Event Date &amp; Time --></label>
+        <name>Event_Date_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- First Name formula --></label>
+        <name>First_Name_formula__c</name>
+    </fields>
+    <fields>
+        <label><!-- &lt;Font color=&quot;#FFFFFF&quot;&gt;Color fiel&lt;/font&gt; --></label>
+        <name>Font_color__c</name>
+    </fields>
+    <fields>
+        <label><!-- Foormula --></label>
+        <name>Foormula__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formula Numeros 1 --></label>
+        <name>Formula_Numeros_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formula Numeros 2 --></label>
+        <name>Formula_Numeros_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Frozen --></label>
+        <name>Frozen__c</name>
+    </fields>
+    <fields>
+        <label><!-- Main Contact --></label>
+        <name>Main_Contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- Insert Comment --></label>
+        <name>NOTES_with_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Necesita evento --></label>
+        <name>Necesita_evento__c</name>
+    </fields>
+    <fields>
+        <label><!-- Numero obtenido --></label>
+        <name>Numero_obtenido__c</name>
+    </fields>
+    <fields>
+        <label><!-- Numeros --></label>
+        <name>Numeros__c</name>
+    </fields>
+    <fields>
+        <help><!-- Choose one of the offers. --></help>
+        <label><!-- Offer --></label>
+        <name>Offer__c</name>
+        <picklistValues>
+            <masterLabel>Buy on CD get one half Price</masterLabel>
+            <translation><!-- Buy on CD get one half Price --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free Antivirus Software</masterLabel>
+            <translation><!-- Free Antivirus Software --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free CD</masterLabel>
+            <translation><!-- Free CD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free Golf Bag</masterLabel>
+            <translation><!-- Free Golf Bag --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free Laptop Bag</masterLabel>
+            <translation><!-- Free Laptop Bag --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free Shin Pads</masterLabel>
+            <translation><!-- Free Shin Pads --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free TV Stand</masterLabel>
+            <translation><!-- Free TV Stand --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Free cap</masterLabel>
+            <translation><!-- Free cap --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Half price DVD Player</masterLabel>
+            <translation><!-- Half price DVD Player --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PreOrder</masterLabel>
+            <translation><!-- PreOrder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trade Deal</masterLabel>
+            <translation><!-- Trade Deal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Two for €40</masterLabel>
+            <translation><!-- Two for €40 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Old Account name --></label>
+        <name>Old_Account_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Path to hard drive --></label>
+        <name>Path_to_hard_drive__c</name>
+    </fields>
+    <fields>
+        <help><!-- Choose your product type. --></help>
+        <label><!-- Product Type --></label>
+        <name>Product_Type__c</name>
+        <picklistValues>
+            <masterLabel>Consoles</masterLabel>
+            <translation><!-- Consoles --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Music</masterLabel>
+            <translation><!-- Music --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pc and Laptops</masterLabel>
+            <translation><!-- Pc and Laptops --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sporting Equipment</masterLabel>
+            <translation><!-- Sporting Equipment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Televisions</masterLabel>
+            <translation><!-- Televisions --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- ROUND --></label>
+        <name>ROUND__c</name>
+    </fields>
+    <fields>
+        <label><!-- SAME --></label>
+        <name>SAME__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comment log --></label>
+        <name>Solo_lectura_comment_log__c</name>
+    </fields>
+    <fields>
+        <label><!-- Street --></label>
+        <name>Street__c</name>
+        <relationshipLabel><!-- Contacts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- TESTTTTTTTTSET --></label>
+        <name>TESTTTTTTTTSET2__c</name>
+    </fields>
+    <fields>
+        <label><!-- TESTTTTTTTTSETtxt --></label>
+        <name>TESTTTTTTTTSETtxt__c</name>
+    </fields>
+    <fields>
+        <help><!-- actualizo el help text para ver que pasa con el change set --></help>
+        <label><!-- Task date --></label>
+        <name>Task_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Days --></label>
+        <name>Total_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- Touch --></label>
+        <name>Touch__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tradeshow presence --></label>
+        <name>Tradeshow_presence__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hola</masterLabel>
+            <translation><!-- Hola --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- acc record type --></label>
+        <name>acc_record_type__c</name>
+    </fields>
+    <fields>
+        <label><!-- date formula text --></label>
+        <name>date_formula_text__c</name>
+    </fields>
+    <fields>
+        <label><!-- language --></label>
+        <name>language__c</name>
+    </fields>
+    <fields>
+        <label><!-- lenguaje2 --></label>
+        <name>lenguaje__c</name>
+        <picklistValues>
+            <masterLabel>frances</masterLabel>
+            <translation>otro nuevo</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ingles</masterLabel>
+            <translation>otro mas</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- link to hard drive --></label>
+        <name>link_to_hard_drive__c</name>
+    </fields>
+    <fields>
+        <label><!-- mapping --></label>
+        <name>mapping__c</name>
+    </fields>
+    <fields>
+        <label><!-- multipicklist --></label>
+        <name>multipicklist__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10</masterLabel>
+            <translation><!-- 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12</masterLabel>
+            <translation><!-- 12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13</masterLabel>
+            <translation><!-- 13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>14</masterLabel>
+            <translation><!-- 14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15</masterLabel>
+            <translation><!-- 15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>16</masterLabel>
+            <translation><!-- 16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>17</masterLabel>
+            <translation><!-- 17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>18</masterLabel>
+            <translation><!-- 18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>19</masterLabel>
+            <translation><!-- 19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20</masterLabel>
+            <translation><!-- 20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- note date --></label>
+        <name>note_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- number test contact --></label>
+        <name>number_test_contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- tes formula date --></label>
+        <name>tes_formula_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- test address --></label>
+        <name>test_address__c</name>
+    </fields>
+    <fields>
+        <label><!-- test currency --></label>
+        <name>test_currency__c</name>
+    </fields>
+    <fields>
+        <label><!-- test dependant --></label>
+        <name>test_dependant__c</name>
+        <picklistValues>
+            <masterLabel>valor1</masterLabel>
+            <translation><!-- valor1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>valor2</masterLabel>
+            <translation><!-- valor2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>valor3</masterLabel>
+            <translation><!-- valor3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- test error --></label>
+        <name>test_error__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- TESTTTTTTTTSET --></label>
+        <name>TESTTTTTTTTSET</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- master2 --></label>
+        <name>master2</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Mailing st --></errorMessage>
+        <name>Mailing_st</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- selecciona idioma (check idioma) --></errorMessage>
+        <name>check_idioma</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- first name --></errorMessage>
+        <name>first_name</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- mailing city --></errorMessage>
+        <name>mailing_city</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- mailingzp_postal_code --></errorMessage>
+        <name>mailingzp_postal_code</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- tradeshow is required --></errorMessage>
+        <name>salutation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- title --></errorMessage>
+        <name>title</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Mini_Page --></label>
+        <name>Mini_Page</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- SendGmail --></label>
+        <name>SendGmail</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooMaps --></label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooWeather --></label>
+        <name>YahooWeather</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- google_button --></label>
+        <name>google_button</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- hard_drive --></label>
+        <name>hard_drive</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- i_know_this_person3 --></label>
+        <name>i_know_this_person3</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- link_url --></label>
+        <name>link_url</name>
+    </webLinks>
+</CustomObjectTranslation>

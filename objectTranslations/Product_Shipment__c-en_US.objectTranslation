@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Product Shipment</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Product Shipments</value>
+    </caseValues>
+    <fields>
+        <label><!-- Expected Delivery Date --></label>
+        <name>Expected_Delivery_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opportunity --></label>
+        <name>Opportunity__c</name>
+        <relationshipLabel><!-- Product Shipments --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Delivered</masterLabel>
+            <translation><!-- Delivered --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Transit</masterLabel>
+            <translation><!-- In Transit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Item Damaged</masterLabel>
+            <translation><!-- Item Damaged --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Item Delayed</masterLabel>
+            <translation><!-- Item Delayed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Item Lost</masterLabel>
+            <translation><!-- Item Lost --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Item(s) Picked</masterLabel>
+            <translation><!-- Item(s) Picked --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Order Place</masterLabel>
+            <translation><!-- Order Place --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Out Of Stock</masterLabel>
+            <translation><!-- Out Of Stock --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Packaging</masterLabel>
+            <translation><!-- Packaging --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ready For Shipping</masterLabel>
+            <translation><!-- Ready For Shipping --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shipped</masterLabel>
+            <translation><!-- Shipped --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

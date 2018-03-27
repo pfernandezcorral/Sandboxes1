@@ -1,0 +1,23 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations</h1>
+
+
+<a id="liveagent_button_online_573D00000008PF1" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573D00000008PF1')">
+<img src="https://c.eu1.content.force.com/servlet/servlet.ImageServer?id=015D0000001eZPb&oid=00DD0000000mW7e&lastMod=1362495226000"/></a>
+<div id="liveagent_button_offline_573D00000008PF1" style="display: none;">
+<img src="https://c.eu1.content.force.com/servlet/servlet.ImageServer?id=015D0000001eZPg&oid=00DD0000000mW7e&lastMod=1362495265000"/>
+</div><script type="text/javascript">
+if (!window._laq) { window._laq = []; }
+window._laq.push(function(){liveagent.showWhenOnline('573D00000008PF1', document.getElementById('liveagent_button_online_573D00000008PF1'));
+liveagent.showWhenOffline('573D00000008PF1', document.getElementById('liveagent_button_offline_573D00000008PF1'));
+});</script>
+
+
+
+<script type='text/javascript' src='https://c.la1c1.salesforceliveagent.com/content/g/deployment.js'></script>
+<script type='text/javascript'>
+liveagent.init('https://d.la1c1.salesforceliveagent.com/chat', '572D0000000CbOS', '00DD0000000mW7e');
+</script>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

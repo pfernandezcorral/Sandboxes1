@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Account Manager</masterLabel>
+        <translation><!-- Account Manager --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Channel Manager</masterLabel>
+        <translation><!-- Channel Manager --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Executive Sponsor</masterLabel>
+        <translation><!-- Executive Sponsor --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Lead Qualifier</masterLabel>
+        <translation><!-- Lead Qualifier --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Opportunity Owner</masterLabel>
+        <translation>Opportunity Owner Spanish</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Partner manager</masterLabel>
+        <translation><!-- Partner manager --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Pre-Sales Consultant</masterLabel>
+        <translation><!-- Pre-Sales Consultant --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sales Manager</masterLabel>
+        <translation><!-- Sales Manager --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sales Rep</masterLabel>
+        <translation><!-- Sales Rep --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

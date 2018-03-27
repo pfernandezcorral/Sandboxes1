@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Test Flow</label>
+    <processType>Flow</processType>
+    <screens>
+        <name>First_Screen</name>
+        <label>First Screen</label>
+        <locationX>348</locationX>
+        <locationY>199</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>step</targetReference>
+        </connector>
+        <fields>
+            <name>Number</name>
+            <dataType>String</dataType>
+            <fieldText>Number</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+    </screens>
+    <screens>
+        <name>second_screen</name>
+        <label>second screen</label>
+        <locationX>330</locationX>
+        <locationY>464</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+    </screens>
+    <startElementReference>First_Screen</startElementReference>
+    <steps>
+        <name>step</name>
+        <label>step</label>
+        <locationX>353</locationX>
+        <locationY>327</locationY>
+        <connectors>
+            <targetReference>second_screen</targetReference>
+        </connectors>
+    </steps>
+</Flow>

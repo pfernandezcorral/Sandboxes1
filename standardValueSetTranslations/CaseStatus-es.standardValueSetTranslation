@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Bug fix submitted</masterLabel>
+        <translation>Bug enviado</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Closed</masterLabel>
+        <translation>Cerrado</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Escalated</masterLabel>
+        <translation>Escalado</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>New</masterLabel>
+        <translation>Nuevo</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Not resolved</masterLabel>
+        <translation>No resuleto</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>On Hold</masterLabel>
+        <translation>En espera</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Pending</masterLabel>
+        <translation>Pendiente</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Reopen</masterLabel>
+        <translation>Reabierto</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Time</masterLabel>
+        <translation>Tiempo</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Waiting on customer</masterLabel>
+        <translation>Esperando por el cliente</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

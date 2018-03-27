@@ -1,0 +1,7 @@
+EU number has been updated in the account  {!Account.Name} by {!Account.LastModifiedBy}
+
+The current value is: {!Account.EU_Number__c}
+
+Click the following link to access to {!Account.Name}:
+
+{!Account.Link}

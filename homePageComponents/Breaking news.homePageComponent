@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&lt;strong class=&quot;feedText&quot; id=&quot;ext-gen42&quot; style=&quot;font-weight: normal; color: rgb(85, 85, 85); font-size: 13px; font-style: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/strong&gt;&lt;div align=&quot;center&quot;&gt;&lt;strong class=&quot;feedText&quot; style=&quot;font-weight: normal; color: rgb(85, 85, 85); font-size: 13px; font-style: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ffffff&quot; size=&quot;+1&quot;&gt;&lt;strong&gt;Eat at 
+Joe´s&lt;/strong&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/div&gt;&lt;strong class=&quot;feedText&quot; style=&quot;font-weight: normal; color: rgb(85, 85, 85); font-size: 13px; font-style: normal; text-align: start; white-space: normal; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/strong&gt;</body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>wide</width>
+</HomePageComponent>

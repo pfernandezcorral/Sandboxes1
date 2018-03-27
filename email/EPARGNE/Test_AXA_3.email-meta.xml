@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>AXA</letterhead>
+    <name>Test AXA 3</name>
+    <style>promotionRight</style>
+    <subject>Test AXA 2</subject>
+    <textOnly>Votre Interlocuteur AXA
+AXA Partenaires Professionnels
+Espace Vie Agents Généraux
+TSA 46109
+95901 Cergy Pontoise Cedex 9
+
+00 00 00 00 00
+00 00 00 00 00
+xxxxxxxx@axa.fr
+«CIVILITE DEST» « PRENOM_NOM_DESTINATAIRE»
+«ADRESSE_1 »
+«ADRESSE_2 »
+«ADRESSE_3 »
+«CODE POSTAL_VILLE»
+Attestation loi Madelin
+Votre adhésion &lt;Nom du produit&gt;
+
+&lt;Civilité&gt;,
+
+Dans le cadre de la loi Madelin n° 94-126 du 11 février 1994 relative à l’initiative et à l’entreprise individuelle, vous avez adhéré au contrat d’assurance sur la vie &lt;Nom du produit&gt; référencé ci-contre.
+
+L’article 154 bis du Code Général des Impôts (CGI)
+L’attestation du paiement des cotisations pourra éventuellement vous permettre de bénéficier de la déduction fiscale prévue par l’article 154 bis du Code Général des Impôts (CGI) et sous les conditions définies par la loi, par les décrets d’application et par les instructions fiscales.
+
+Au titre de ce contrat vous trouverez ci-joint :
+l’attestation du paiement des cotisations (1)
+Pour la période du 1er janvier aaaa au 31 décembre aaaa.
+
+(1) Cette déduction est notamment subordonnée à l’obligation d’être à jour du paiement des cotisations aux régimes légaux de la Sécurité sociale.
+
+Il vous appartient de vérifier celles qui vous sont à intégrer dans vos revenus.
+
+Votre Agent Général reste à votre disposition pour toute information complémentaire que vous jugerez nécessaire.
+
+Vous remerciant de la confiance que vous nous témoignez, recevez &lt;Civilité&gt;, nos plus sincères salutations.
+
+
+Stéphanie De Backer
+Service Clients Epargne Agents Généraux
+
+
+
+
+
+
+
+
+
+
+
+Date du courrier
+18 mars 2014
+
+
+
+Assurance Vie
+&lt;Nom du produit&gt;
+
+Contrat
+000000
+
+Adhérent
+Nom Prénom
+
+
+Civilité Prénom Nom distributeur
+Adresse 1
+Adresse 2
+Code Postal Ville</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

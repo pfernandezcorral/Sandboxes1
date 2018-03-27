@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>Accepted</fullName>
+        <default>false</default>
+        <label>Accepted</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Bad Email Address</fullName>
+        <default>false</default>
+        <label>Bad Email Address</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Confirmed</fullName>
+        <default>false</default>
+        <label>Confirmed</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Default</fullName>
+        <default>false</default>
+        <label>Default</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Enviado</fullName>
+        <default>false</default>
+        <label>Enviado</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Google adwards</fullName>
+        <default>false</default>
+        <label>Google adwards</label>
+    </standardValue>
+    <standardValue>
+        <fullName>L &amp; L</fullName>
+        <default>false</default>
+        <label>L &amp; L</label>
+    </standardValue>
+    <standardValue>
+        <fullName>No Response</fullName>
+        <default>false</default>
+        <label>No Response</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Not Yet Contacted</fullName>
+        <default>false</default>
+        <label>Not Yet Contacted</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rejected</fullName>
+        <default>false</default>
+        <label>Rejected</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Responded</fullName>
+        <default>false</default>
+        <label>Responded</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Responded - Attended</fullName>
+        <default>false</default>
+        <label>Responded - Attended</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Responded - Attending</fullName>
+        <default>false</default>
+        <label>Responded - Attending</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Responded - Interested</fullName>
+        <default>false</default>
+        <label>Responded - Interested</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Responded - Not Interested</fullName>
+        <default>false</default>
+        <label>Responded - Not Interested</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Respondida</fullName>
+        <default>false</default>
+        <label>Respondida</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sent</fullName>
+        <default>false</default>
+        <label>Sent</label>
+    </standardValue>
+</StandardValueSet>

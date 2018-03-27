@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatButton xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoGreeting>Guten Tag! Willkommen beim Acronis Support Team! Mein Name ist {!User_FirstName} {!User_LastName}. Ich werde mich um Ihren Fall kümmern. Bitte geben Sie mir 3-4 Minuten, ich lese die Problembeschreibung und erstelle einen Supportfall für Sie. Falls Sie bereits einen offenen Supportfall zu dieser Anfrage haben, geben Sie mir bitte die Nummer.</autoGreeting>
+    <customAgentName>{!User_FirstName} {!User_LastName}</customAgentName>
+    <deployments/>
+    <enableQueue>true</enableQueue>
+    <isActive>true</isActive>
+    <label>Last Button</label>
+    <optionsCustomRoutingIsEnabled>false</optionsCustomRoutingIsEnabled>
+    <optionsHasChasitorIdleTimeout>false</optionsHasChasitorIdleTimeout>
+    <optionsHasInviteAfterAccept>false</optionsHasInviteAfterAccept>
+    <optionsHasInviteAfterReject>false</optionsHasInviteAfterReject>
+    <optionsHasRerouteDeclinedRequest>false</optionsHasRerouteDeclinedRequest>
+    <optionsIsAutoAccept>true</optionsIsAutoAccept>
+    <optionsIsInviteAutoRemove>false</optionsIsInviteAutoRemove>
+    <perAgentQueueLength>5</perAgentQueueLength>
+    <routingType>MostAvailable</routingType>
+    <skills>
+        <skill>Last_Skills</skill>
+    </skills>
+    <type>Standard</type>
+    <windowLanguage>en_US</windowLanguage>
+</LiveChatButton>

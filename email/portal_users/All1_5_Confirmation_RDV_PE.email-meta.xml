@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Company_letterhead</letterhead>
+    <name>All1.5- Confirmation RDV PE</name>
+    <style>freeForm</style>
+    <subject>All1.5- Confirmation RDV PE</subject>
+    <textOnly>{!Contact.Title} {!Contact.LastName},
+wie gerade telefonisch besprochen, bestätige ich Ihnen folgenden Termin zur Durchführung der Ohrabdrucknahme:
+am [Datum] um [Uhrzeit] in {!Account.Name}{!Account.BillingAddress}Bei diesem Treffen wird:
+1- der akustische Filter ausgewählt,2- eine Lärmschulung durchgeführt,3- eine Produktschulung durchgeführt,4- die Ohrabdrücke abgenommen.Anbei erhalten Sie 
+ein Dokument, in dem der Verlauf der Ohrabdrucknahme genau beschrieben wird (bitte teilen Sie den Betroffenen mit, dass keine
+Ohrabdrücke abgenommen werden können im Falle von Ohrpfropfen)
+ein Anmeldeformular für Ihre weitere Mitarbeiter, die sich einen angepassten Gehörschutz wünschen.
+Damit die
+Ohrabdrucknahme reibungslos verläuft, bitte ich Sie, wie vereinbart, den Personen, die ausgestattet werden sollen, Datum, Ort und genaue Zeit des Treffens mitzuteilen. 
+
+
+Sollten Sie noch Fragen in Bezug auf den Verlauf der Ohrabdrucknahme haben, zögern Sie bitte nicht, mich zu kontaktieren. 
+
+
+PS. Entdecken Sie AUDITOOLS: die kostenlose Unterstützung beim Management des Lärmrisikos in Ihrem Unternehmen:
+http://auditools.cotral.de
+Mit freundlichen Grüßen,
+
+{!User.Name}
+{!User.Fonction_Utilisateur__c}
+{!User.MobilePhone} 
+{!User.Agence_Commerciale__c}
+
+ 
+ TENDRIA QUE APARECER ESTO NO??????
+
+Die Komplettlösung für den Schutz des Hörvermögens Ihrer Mitarbeiter.
+Labor COTRAL GmbH - Lebacher Straße - 4 D-66113 - SAARBRÜCKEN
+Tel. Nr.: +49 (0)6 81 9963 637 - Fax Nr.: +49
+(0)681 9963621
+Amtsgericht Saarbrücken HRB-Nr.15601-Geschäftsführer Laurent CAPELLARI
+
+Zu unserer Homepage hier
+
+Denken Sie an die Umwelt und drucken Sie diese E-Mail nur aus, wenn es wirklich notwendig ist.Die
+ Informationen in dieser E-Mail enthalten rechtlich geschützte, 
+vertrauliche Informationen. Die in dieser E-Mail enthaltenen 
+Informationen sind ausschließlich für den/die bezeichneten Adressaten 
+bestimmt. Jeglicher Zugriff auf diese E-mail durch andere Personen als 
+den Adressaten ist untersagt. Sollten Sie nicht der für diese E-mail 
+bestimmte Adressat sein, ist die Verwendung, Vervielfältigung oder 
+Weitergabe der Nachrichten und Anhänge untersagt.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

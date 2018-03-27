@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <constants>
+        <name>Constant</name>
+        <dataType>Number</dataType>
+        <value>
+            <numberValue>3.0</numberValue>
+        </value>
+    </constants>
+    <decisions>
+        <name>True</name>
+        <label>True?</label>
+        <locationX>294</locationX>
+        <locationY>228</locationY>
+        <defaultConnectorLabel>Ohhhh!</defaultConnectorLabel>
+        <rules>
+            <name>Yo_creo_que_si</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>Constant</leftValueReference>
+                <operator>NotEqualTo</operator>
+                <rightValue>
+                    <elementReference>Constant</elementReference>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Uodate</targetReference>
+            </connector>
+            <label>Yo creo que si</label>
+        </rules>
+    </decisions>
+    <label>Juan Carlos Flow</label>
+    <processType>Flow</processType>
+    <recordUpdates>
+        <name>Uodate</name>
+        <label>Uodate</label>
+        <locationX>294</locationX>
+        <locationY>460</locationY>
+        <filters>
+            <field>Fax</field>
+            <operator>EqualTo</operator>
+            <value>
+                <stringValue>5665656556</stringValue>
+            </value>
+        </filters>
+        <inputAssignments>
+            <field>Description</field>
+            <value>
+                <stringValue>Ole!</stringValue>
+            </value>
+        </inputAssignments>
+        <object>Account</object>
+    </recordUpdates>
+    <startElementReference>Uodate</startElementReference>
+</Flow>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>servlet_ImageServer</letterhead>
+    <name>Server Space NO USAR</name>
+    <style>freeForm</style>
+    <subject>TEST NO USAR</subject>
+    <textOnly>Dear {!Contact.FirstName}
+
+
+Hope you are well.
+
+It has been some time since we last spoke but I just wanted to firstly wish you a Happy New Year and secondly inform you of some exciting news;
+
+ServerSpace was recently voted 10th place in the Deloitte Fast - 50 Fastest Growing Technology Companies 2012.
+
+You were very keen on using some of our services a few years ago and I wondered if it would be possible to reconnect with you and find out how things are going with your current IT infrastructure.
+
+I have attached a case study and company brochure for your perusal.
+
+Any feedback, questions, quote requests are most welcome.
+
+Look forward to hearing from you,
+
+
+Best Regards
+
+Sohm Kapila
+Sales Executive
+
+ServerSpace
+93-95 Borough High Street
+London, SE1 1NL
+T: 0207 129 7005
+F: 08701 992 688
+E: sohm@serverspace.co.uk
+W:www.serverspace.co.uk
+L I:http://uk.linkedin.com/pub/sohm-kapila/18/676/805</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

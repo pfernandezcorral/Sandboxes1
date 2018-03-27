@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Accepted</masterLabel>
+        <translation>Accepted German</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Bad Email Address</masterLabel>
+        <translation><!-- Bad Email Address --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Confirmed</masterLabel>
+        <translation>Confirmed German</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Default</masterLabel>
+        <translation>Default German</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Enviado</masterLabel>
+        <translation><!-- Enviado --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Google adwards</masterLabel>
+        <translation><!-- Google adwards --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>L &amp; L</masterLabel>
+        <translation><!-- L &amp; L --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>No Response</masterLabel>
+        <translation><!-- No Response --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Not Yet Contacted</masterLabel>
+        <translation><!-- Not Yet Contacted --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Rejected</masterLabel>
+        <translation>Rejected german</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Responded</masterLabel>
+        <translation>Responded german</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Responded - Attended</masterLabel>
+        <translation><!-- Responded - Attended --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Responded - Attending</masterLabel>
+        <translation><!-- Responded - Attending --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Responded - Interested</masterLabel>
+        <translation><!-- Responded - Interested --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Responded - Not Interested</masterLabel>
+        <translation><!-- Responded - Not Interested --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Respondida</masterLabel>
+        <translation><!-- Respondida --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Sent</masterLabel>
+        <translation>Sent German</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

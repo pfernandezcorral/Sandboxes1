@@ -1,0 +1,7 @@
+{!Opportunity.Amount}
+
+{!Case.CaseNumber}
+
+{!Account.Name}
+{!Account.OwnerFullName}
+{!Account.OwnerEmail}

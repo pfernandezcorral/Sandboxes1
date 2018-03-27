@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Account lookup --></label>
+        <name>Account_lookup__c</name>
+        <relationshipLabel><!-- Accounts (Account lookup) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Account type --></label>
+        <name>Account_type__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Check to get access to the warranty values. --></help>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- Agency --></label>
+        <name>Agency__c</name>
+        <relationshipLabel><!-- Clients --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- BillingStateCode --></label>
+        <name>BillingStateCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingState --></label>
+        <name>BillingState__c</name>
+    </fields>
+    <fields>
+        <label><!-- Brand --></label>
+        <name>Brand__c</name>
+        <picklistValues>
+            <masterLabel>Hyster</masterLabel>
+            <translation><!-- Hyster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NMHG</masterLabel>
+            <translation><!-- NMHG --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yale</masterLabel>
+            <translation><!-- Yale --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Client Type --></label>
+        <name>Business_Type__c</name>
+        <picklistValues>
+            <masterLabel>Bar</masterLabel>
+            <translation><!-- Bar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Caterers</masterLabel>
+            <translation><!-- Caterers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contract Caterer</masterLabel>
+            <translation><!-- Contract Caterer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Event Space</masterLabel>
+            <translation><!-- Event Space --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Event Venue</masterLabel>
+            <translation><!-- Event Venue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Events</masterLabel>
+            <translation><!-- Events --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Events Company</masterLabel>
+            <translation><!-- Events Company --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hotel</masterLabel>
+            <translation><!-- Hotel --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Restaurant</masterLabel>
+            <translation><!-- Restaurant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Restaurant &amp; Events Group</masterLabel>
+            <translation><!-- Restaurant &amp; Events Group --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Restaurant Group</masterLabel>
+            <translation><!-- Restaurant Group --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Venue</masterLabel>
+            <translation><!-- Venue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yearly Event</masterLabel>
+            <translation><!-- Yearly Event --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Can Call Support --></label>
+        <name>Can_Call_Support__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact test lookup --></label>
+        <name>Contact_test_lookup__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Credit Warning --></label>
+        <name>Credit_Warning__c</name>
+    </fields>
+    <fields>
+        <label><!-- Default Number of Shifts --></label>
+        <name>Default_Number_of_Shifts__c</name>
+    </fields>
+    <fields>
+        <label><!-- EPAD won yes --></label>
+        <name>EPAD_won_yes__c</name>
+    </fields>
+    <fields>
+        <label><!-- EU Number --></label>
+        <name>EU_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Exam Date --></label>
+        <name>Exam_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- External Id --></label>
+        <name>External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- First Name custom --></label>
+        <name>First_Name_custom__c</name>
+    </fields>
+    <fields>
+        <label><!-- Google hyperlink --></label>
+        <name>Google_hyperlink__c</name>
+    </fields>
+    <fields>
+        <label><!-- Hyperlink Test --></label>
+        <name>Hyperlink_Test__c</name>
+    </fields>
+    <fields>
+        <label><!-- Identificador --></label>
+        <name>Identificador__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead --></label>
+        <name>Lead__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Main Application Field --></label>
+        <name>Main_Application_Field__c</name>
+        <picklistValues>
+            <masterLabel>Main 4</masterLabel>
+            <translation><!-- Main 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other 1</masterLabel>
+            <translation><!-- Other 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other 2</masterLabel>
+            <translation><!-- Other 2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Market --></label>
+        <name>Market__c</name>
+        <picklistValues>
+            <masterLabel>Belgium</masterLabel>
+            <translation>Belman</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>England</masterLabel>
+            <translation>Enman</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>France</masterLabel>
+            <translation>Framan</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spain</masterLabel>
+            <translation>Spaman</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- NFR key issued --></label>
+        <name>NFR_key_issued__c</name>
+    </fields>
+    <fields>
+        <label><!-- NFR key valid to --></label>
+        <name>NFR_key_valid_to__c</name>
+    </fields>
+    <fields>
+        <label><!-- No EPAD but open won --></label>
+        <name>No_EPAD_but_open_won__c</name>
+    </fields>
+    <fields>
+        <label><!-- No validations --></label>
+        <name>No_validations__c</name>
+    </fields>
+    <fields>
+        <label><!-- Num open Opp in Acc --></label>
+        <name>Num_open_Opp_in_Acc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Offer --></label>
+        <name>Offer__c</name>
+        <picklistValues>
+            <masterLabel>adios</masterLabel>
+            <translation><!-- adios --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>hola</masterLabel>
+            <translation><!-- hola --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Opp in acc --></label>
+        <name>Opp_in_acc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prime Market Segment --></label>
+        <name>Prime_Market_Segment__c</name>
+        <picklistValues>
+            <masterLabel>Prime 1</masterLabel>
+            <translation><!-- Prime 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prime 2</masterLabel>
+            <translation><!-- Prime 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prime 3</masterLabel>
+            <translation><!-- Prime 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prime 4</masterLabel>
+            <translation><!-- Prime 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prime 5</masterLabel>
+            <translation><!-- Prime 5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select the region where you are located. --></help>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+        <picklistValues>
+            <masterLabel>APAC</masterLabel>
+            <translation><!-- APAC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EMEA</masterLabel>
+            <translation><!-- EMEA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>US</masterLabel>
+            <translation><!-- US --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- SFDC Lead source --></label>
+        <name>SFDC_Lead_source__c</name>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Choose your SLA --></help>
+        <label><!-- SLA --></label>
+        <name>SLA__c</name>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>24</masterLabel>
+            <translation><!-- 24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>48</masterLabel>
+            <translation><!-- 48 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select your support level. --></help>
+        <label><!-- Support Level --></label>
+        <name>Support_Level__c</name>
+        <picklistValues>
+            <masterLabel>Platinum</masterLabel>
+            <translation><!-- Platinum --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Silver</masterLabel>
+            <translation><!-- Silver --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Support and Maintenance Expiration --></label>
+        <name>Support_and_Maintenance_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test Object --></label>
+        <name>Test_Object__c</name>
+        <relationshipLabel><!-- Accounts Related --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Total Amount of Won Opps --></label>
+        <name>Total_Amount_of_Won_Opps__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Opp --></label>
+        <name>Total_Opp__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total amount opp --></label>
+        <name>Total_amount_opp__c</name>
+    </fields>
+    <fields>
+        <help><!-- Choose the date in which your warranty is going to expire --></help>
+        <label><!-- Warranty Expiration --></label>
+        <name>Warranty_Expiration__c</name>
+    </fields>
+    <fields>
+        <help><!-- Choose the years of warranty that you want. --></help>
+        <label><!-- Warranty --></label>
+        <name>Warranty__c</name>
+        <picklistValues>
+            <masterLabel>1-year</masterLabel>
+            <translation><!-- 1-year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2-year</masterLabel>
+            <translation><!-- 2-year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3-year</masterLabel>
+            <translation><!-- 3-year --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 18 characters ID acc --></label>
+        <name>X18_characters_ID_acc__c</name>
+    </fields>
+    <fields>
+        <label><!-- copy auto number leads --></label>
+        <name>copy_auto_number_leads__c</name>
+    </fields>
+    <fields>
+        <label><!-- discount --></label>
+        <name>discount__c</name>
+        <picklistValues>
+            <masterLabel>10%</masterLabel>
+            <translation><!-- 10% --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2%</masterLabel>
+            <translation><!-- 2% --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20%</masterLabel>
+            <translation><!-- 20% --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>30%</masterLabel>
+            <translation><!-- 30% --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5%</masterLabel>
+            <translation><!-- 5% --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>50%</masterLabel>
+            <translation><!-- 50% --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- discount percent --></label>
+        <name>discount_percent__c</name>
+    </fields>
+    <fields>
+        <label><!-- encrypted --></label>
+        <name>encrypted__c</name>
+    </fields>
+    <fields>
+        <label><!-- flag --></label>
+        <name>flag__c</name>
+    </fields>
+    <fields>
+        <label><!-- hay telefono --></label>
+        <name>hay_telefono__c</name>
+    </fields>
+    <fields>
+        <label><!-- languaje --></label>
+        <name>languaje__c</name>
+        <picklistValues>
+            <masterLabel>español</masterLabel>
+            <translation>german</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>frances</masterLabel>
+            <translation>german 2</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ingles</masterLabel>
+            <translation>german 3</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- lpk1 --></label>
+        <name>lpk1__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- mayor --></label>
+        <name>mayor__c</name>
+    </fields>
+    <fields>
+        <label><!-- menor o igual --></label>
+        <name>menor_o_igual__c</name>
+    </fields>
+    <fields>
+        <label><!-- numero acc --></label>
+        <name>numero_acc__c</name>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- outbound --></label>
+        <name>outbound__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- propietario precliente --></label>
+        <name>propietario_precliente__c</name>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- test light --></label>
+        <name>test_light__c</name>
+    </fields>
+    <fields>
+        <label><!-- test person --></label>
+        <name>test_person__c</name>
+    </fields>
+    <fields>
+        <label><!-- text rich --></label>
+        <name>text_rich__c</name>
+    </fields>
+    <fields>
+        <label><!-- wedw --></label>
+        <name>wedw__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Business Accounts --></label>
+        <name>Business_Accounts</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Business Accounts Plus --></label>
+        <name>Business_Accounts_Plus</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Partner Accounts --></label>
+        <name>Partner_Accounts</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- This is the long record type used for testing a cosmetic issue in communities --></label>
+        <name>This_is_the_long_record_type_used_for_testing_a_cosmetic_issue_in_communities</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Account name has more than 15 characters --></errorMessage>
+        <name>Account_name_lengh</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please fill in the Billing Address Information. --></errorMessage>
+        <name>Billing_Information_Mandatory</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Only Platinum or Gold Customers are entitled to call support. --></errorMessage>
+        <name>Can_Call_Support</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You cannot create an account. Check validation rule called Custom settings --></errorMessage>
+        <name>Custom_settings</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Tienes que introducir una fecha en NFR_key_valid_to --></errorMessage>
+        <name>NFR_key_valid_to_Date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The account has red light --></errorMessage>
+        <name>Red_light</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- AltavistaNews --></label>
+        <name>AltavistaNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- HooversProfile --></label>
+        <name>HooversProfile</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooMaps --></label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- google --></label>
+        <name>google</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- link_report_exam --></label>
+        <name>link_report_exam</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- new_burtton_lpk --></label>
+        <name>new_burtton_lpk</name>
+    </webLinks>
+</CustomObjectTranslation>

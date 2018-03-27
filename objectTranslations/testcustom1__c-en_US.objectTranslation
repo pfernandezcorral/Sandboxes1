@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>testcustom1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>testcustom1</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Field Set 2 --></label>
+        <name>Field_Set_2</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Field Set 3 --></label>
+        <name>Field_Set_3</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Field Set 4 --></label>
+        <name>Field_Set_4</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Field set --></label>
+        <name>Field_set</name>
+    </fieldSets>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- testcustom1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Case --></label>
+        <name>Case2__c</name>
+        <relationshipLabel><!-- testcustom1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Case equals blank --></label>
+        <name>Case_equals_blank__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comentarios del caso --></label>
+        <name>Comentarios_del_caso__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comentarios del caso largos --></label>
+        <name>Comentarios_del_caso_largos__c</name>
+    </fields>
+    <fields>
+        <label><!-- Descripcion del caso --></label>
+        <name>Descripcion_del_caso__c</name>
+    </fields>
+    <fields>
+        <label><!-- Trainee --></label>
+        <name>Trainee__c</name>
+        <relationshipLabel><!-- testcustom1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- number --></label>
+        <name>number__c</name>
+    </fields>
+    <fields>
+        <label><!-- status --></label>
+        <name>status__c</name>
+        <picklistValues>
+            <masterLabel>Deployed</masterLabel>
+            <translation><!-- Deployed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Investigating</masterLabel>
+            <translation><!-- Investigating --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Patch Creation</masterLabel>
+            <translation><!-- Patch Creation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Patch Testing</masterLabel>
+            <translation><!-- Patch Testing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reproduction</masterLabel>
+            <translation><!-- Reproduction --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- testcustom1 --></label>
+        <name>testcustom1__c</name>
+        <relationshipLabel><!-- testcustom1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- text Trainee name --></label>
+        <name>text__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- this is an error message --></errorMessage>
+        <name>true</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Checkboxes_in_related_list2 --></label>
+        <name>Checkboxes_in_related_list2</name>
+    </webLinks>
+</CustomObjectTranslation>

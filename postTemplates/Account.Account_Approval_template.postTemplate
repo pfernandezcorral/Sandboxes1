@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PostTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <default>true</default>
+    <fields>Name</fields>
+    <fields>Hyperlink_Test__c</fields>
+    <fields>Google_hyperlink__c</fields>
+    <label>Account Approval template</label>
+</PostTemplate>

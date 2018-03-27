@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <label>HR Recruiting</label>
+    <tab>standard-Chatter</tab>
+    <tab>standard-File</tab>
+    <tab>Applicant__c</tab>
+    <tab>Position__c</tab>
+    <tab>standard-report</tab>
+    <tab>standard-Dashboard</tab>
+    <tab>standard-Document</tab>
+    <tab>Training_Course__c</tab>
+    <tab>Trainee__c</tab>
+    <tab>Attendant__c</tab>
+    <tab>Google_exam</tab>
+    <tab>Business_Relationship__c</tab>
+    <tab>lpk__c</tab>
+    <tab>Live_Agent2</tab>
+    <tab>Live_Agent3</tab>
+    <tab>Book__c</tab>
+    <tab>Temporary_Knowledge__c</tab>
+    <tab>Topic__c</tab>
+    <tab>Visit_Topic__c</tab>
+    <tab>MyWorkOrder__c</tab>
+    <tab>Autonumber__c</tab>
+    <tab>XYZ_Custom__c</tab>
+    <tab>Association__c</tab>
+    <tab>Change_Set__c</tab>
+    <tab>SFGA__Ad_Group__c</tab>
+    <tab>SFGA__Search_Phrase__c</tab>
+    <tab>SFGA__Google_Campaign__c</tab>
+    <tab>SFGA__Version_33_0_3__c</tab>
+    <tab>SFGA__Keyword__c</tab>
+    <tab>Many_to_Many__c</tab>
+    <tab>Opportunity_Contact_Role__c</tab>
+    <tab>ISC_Planning__c</tab>
+    <tab>Street__c</tab>
+    <tab>SFGA__Text_Ad__c</tab>
+</CustomApplication>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Account record type --></label>
+        <name>Account_record_type__c</name>
+    </fields>
+    <fields>
+        <help><!-- Choose the browser you are currently using. --></help>
+        <label><!-- Browser --></label>
+        <name>Browser__c</name>
+        <picklistValues>
+            <masterLabel>Chrome</masterLabel>
+            <translation><!-- Chrome --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Firefox</masterLabel>
+            <translation><!-- Firefox --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internet Explorer</masterLabel>
+            <translation><!-- Internet Explorer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mozilla</masterLabel>
+            <translation><!-- Mozilla --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Netscape</masterLabel>
+            <translation><!-- Netscape --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Opera</masterLabel>
+            <translation><!-- Opera --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Safari</masterLabel>
+            <translation><!-- Safari --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Business hours --></label>
+        <name>Business_hours__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case WWW --></label>
+        <name>Case_WWW__c</name>
+        <picklistValues>
+            <masterLabel>April</masterLabel>
+            <translation><!-- April --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>February</masterLabel>
+            <translation><!-- February --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>January</masterLabel>
+            <translation><!-- January --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>March</masterLabel>
+            <translation><!-- March --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Date time field --></label>
+        <name>Date_time_field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Entitlement Custom --></label>
+        <name>Entitlement_Custom__c</name>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Incident Date/Time --></label>
+        <name>Incident_Date_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Job Finish Date/Time --></label>
+        <name>Job_Finish_Date_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Job Incident BH --></label>
+        <name>Job_Incident_BH__c</name>
+    </fields>
+    <fields>
+        <label><!-- NOW-1h --></label>
+        <name>NOW_1h__c</name>
+    </fields>
+    <fields>
+        <label><!-- NOW --></label>
+        <name>NOW__c</name>
+    </fields>
+    <fields>
+        <label><!-- On Hold Time --></label>
+        <name>On_Hold_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- On Hold --></label>
+        <name>On_Hold__c</name>
+    </fields>
+    <fields>
+        <help><!-- Choose the operating system you are currently using. --></help>
+        <label><!-- Operating System --></label>
+        <name>Operating_System__c</name>
+        <picklistValues>
+            <masterLabel>Linux</masterLabel>
+            <translation><!-- Linux --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Macintosh</masterLabel>
+            <translation><!-- Macintosh --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Windows</masterLabel>
+            <translation><!-- Windows --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Opportunity --></label>
+        <name>Opportunity__c</name>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- RMA Number --></label>
+        <name>RMA_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+        <picklistValues>
+            <masterLabel>APAC</masterLabel>
+            <translation><!-- APAC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EMEA</masterLabel>
+            <translation><!-- EMEA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>US</masterLabel>
+            <translation><!-- US --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- SIST - SIST --></label>
+        <name>SIST_SIST__c</name>
+    </fields>
+    <fields>
+        <label><!-- Service Impact Start Time --></label>
+        <name>Service_Impact_Start_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Service Impact Stop Time --></label>
+        <name>Service_Impact_Stop_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Service Unavailable Formatted SF support --></label>
+        <name>Service_Unavailable_Formatted_SF_support__c</name>
+    </fields>
+    <fields>
+        <label><!-- Service Unavailable for SF support --></label>
+        <name>Service_Unavailable_for_SF_support__c</name>
+    </fields>
+    <fields>
+        <label><!-- Signature --></label>
+        <name>Signature__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status sefl service --></label>
+        <name>Status_sefl_service__c</name>
+    </fields>
+    <fields>
+        <label><!-- Support Level --></label>
+        <name>Support_Level__c</name>
+    </fields>
+    <fields>
+        <label><!-- Support and Maintenance Expiration --></label>
+        <name>Support_and_Maintenance_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time current owner selected --></label>
+        <name>Time_owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time previous owner had the case --></label>
+        <name>Time_recorded__c</name>
+    </fields>
+    <fields>
+        <label><!-- Username --></label>
+        <name>Username__c</name>
+    </fields>
+    <fields>
+        <label><!-- account date --></label>
+        <name>account_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- account id --></label>
+        <name>account_id__c</name>
+    </fields>
+    <fields>
+        <label><!-- amount --></label>
+        <name>amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- bla bla email --></label>
+        <name>bla_bla_email__c</name>
+    </fields>
+    <fields>
+        <label><!-- case origin custom --></label>
+        <name>case_origin_custom__c</name>
+        <picklistValues>
+            <masterLabel>EMEA</masterLabel>
+            <translation><!-- EMEA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Support</masterLabel>
+            <translation><!-- Support --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>US</masterLabel>
+            <translation><!-- US --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- create date case --></label>
+        <name>create_date_case__c</name>
+    </fields>
+    <fields>
+        <label><!-- handled by --></label>
+        <name>handled_by__c</name>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- multi Javier2 --></label>
+        <name>multi_Javier2__c</name>
+        <picklistValues>
+            <masterLabel>otro1</masterLabel>
+            <translation><!-- otro1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>otro2</masterLabel>
+            <translation><!-- otro2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>otro3</masterLabel>
+            <translation><!-- otro3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>otro4</masterLabel>
+            <translation><!-- otro4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>otro5</masterLabel>
+            <translation><!-- otro5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- multi Javier --></label>
+        <name>multi_Javier__c</name>
+        <picklistValues>
+            <masterLabel>Valor1</masterLabel>
+            <translation><!-- Valor1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor2</masterLabel>
+            <translation><!-- Valor2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor3</masterLabel>
+            <translation><!-- Valor3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor4</masterLabel>
+            <translation><!-- Valor4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor5</masterLabel>
+            <translation><!-- Valor5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor6</masterLabel>
+            <translation><!-- Valor6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor7</masterLabel>
+            <translation><!-- Valor7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor8</masterLabel>
+            <translation><!-- Valor8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valor9</masterLabel>
+            <translation><!-- Valor9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- New Email --></label>
+        <name>new_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- now - SIST --></label>
+        <name>now_SIST__c</name>
+    </fields>
+    <fields>
+        <label><!-- test user id --></label>
+        <name>test_user_id__c</name>
+    </fields>
+    <fields>
+        <label><!-- testcustom1 --></label>
+        <name>testcustom__c</name>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- text 5000 --></label>
+        <name>text_5000__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Case Type2 --></label>
+        <name>Case_Type2</name>
+    </recordTypes>
+    <recordTypes>
+        <label>Case type</label>
+        <name>Case_type</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Feed base layout RT --></label>
+        <name>Feedbase_layout_RT</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- no puedes editar este caso --></errorMessage>
+        <name>No_change_status_when_closed</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Account type must be different from 1 in the account. --></errorMessage>
+        <name>Validation_on_account_field</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- this user has permission set audit field which is in a validation rule. Check the validation rule --></errorMessage>
+        <name>permission_set_test</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Custom_Button --></label>
+        <name>Custom_Button</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Custom_Button2 --></label>
+        <name>Custom_Button2</name>
+    </webLinks>
+</CustomObjectTranslation>

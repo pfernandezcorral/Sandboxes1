@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>true</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>true</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Business_Category__c</fullName>
+        <externalId>false</externalId>
+        <label>Business Category</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Business Category 1</fullName>
+                    <default>false</default>
+                    <label>Business Category 1</label>
+                </value>
+                <value>
+                    <fullName>Business Category 2</fullName>
+                    <default>false</default>
+                    <label>Business Category 2</label>
+                </value>
+                <value>
+                    <fullName>Business Category 3</fullName>
+                    <default>false</default>
+                    <label>Business Category 3</label>
+                </value>
+                <value>
+                    <fullName>Business Category 4</fullName>
+                    <default>false</default>
+                    <label>Business Category 4</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Category__c</fullName>
+        <externalId>false</externalId>
+        <label>Category</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Category 1</fullName>
+                    <default>false</default>
+                    <label>Category 1</label>
+                </value>
+                <value>
+                    <fullName>Category 2</fullName>
+                    <default>false</default>
+                    <label>Category 2</label>
+                </value>
+                <value>
+                    <fullName>Category 3</fullName>
+                    <default>false</default>
+                    <label>Category 3</label>
+                </value>
+                <value>
+                    <fullName>Category 4</fullName>
+                    <default>false</default>
+                    <label>Category 4</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Sub_Category__c</fullName>
+        <externalId>false</externalId>
+        <label>Sub Category</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <controllingField>Category__c</controllingField>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Sub Category 1</fullName>
+                    <default>false</default>
+                    <label>Sub Category 1</label>
+                </value>
+                <value>
+                    <fullName>Sub Category 2</fullName>
+                    <default>false</default>
+                    <label>Sub Category 2</label>
+                </value>
+                <value>
+                    <fullName>Sub Category 3</fullName>
+                    <default>false</default>
+                    <label>Sub Category 3</label>
+                </value>
+                <value>
+                    <fullName>Sub Category 4</fullName>
+                    <default>false</default>
+                    <label>Sub Category 4</label>
+                </value>
+            </valueSetDefinition>
+            <valueSettings>
+                <controllingFieldValue>Category 1</controllingFieldValue>
+                <valueName>Sub Category 1</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Category 2</controllingFieldValue>
+                <valueName>Sub Category 2</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Category 3</controllingFieldValue>
+                <valueName>Sub Category 3</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Category 4</controllingFieldValue>
+                <valueName>Sub Category 4</valueName>
+            </valueSettings>
+        </valueSet>
+    </fields>
+    <label>Topic</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Topic Name</label>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Topics</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
+</CustomObject>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Company_letterhead</letterhead>
+    <name>Support instalation</name>
+    <style>freeForm</style>
+    <subject>Support instalation TEST TEST TEMPLATE</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+
+Congratulations with your new swinguru training and teaching system! By now, you should have received an email containing your login and password to log onto our website (www.gurutrainingsystems.com) and download the program.
+We&apos;re here to assist you with the installation of your swinguru system. 
+We
+ propose to hold an interactive (remote) session with you, during which 
+we follow your live installation step by step. Such session can take 
+place with guruteamviewer (screen sharing application) and optionally with Skype. 
+Together, we will go through the installation, the calibration of the camera and a walk through swinguru.
+In order to download the software and for the remote installation, you&apos;ll obviously need an Internet connection. If
+ there is no Internet connection (or if it is slow), you can still 
+download the files from any computer and store it on a USB stick or 
+memory card. In that case only, the remote assistance will have to 
+happen over the phone, guru support team not being able to take control 
+of your screen.
+In the meantime, could we ask you to check if the computer on which you want to install swinguru meets the minimal system requirements and send us the following information:CPURAM sizevideo card of your computerMAC
+ address. This is used for the license generation (cfr installation 
+procedure). If you run the installation_setup, that MAC address list is 
+extracted in a text file that we ask you to send us back (cfr 
+installation procedure). That file is also generated with our tool getallmacaddresses.
+
+
+ 
+
+Good golfing,
+
+ guru support team</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

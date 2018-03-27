@@ -1,0 +1,7 @@
+Dear {!Lead.Name},  
+
+Thank you for your interest in {!Organization.Name}.  We understand that you may not speak English so please use google translator for this email: http://translate.google.com
+
+Someone will contact you during the hours of 9-5pm.
+
+Sincerely,  The Team at {!Organization.Name}

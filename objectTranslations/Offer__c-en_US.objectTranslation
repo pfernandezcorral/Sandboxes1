@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Offer</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Offers</value>
+    </caseValues>
+    <fields>
+        <label><!-- Accepted/Rejected Date --></label>
+        <name>Accepted_Rejected_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Applicant Expected Salary --></label>
+        <name>Applicant_Expected_Salary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Applicant --></label>
+        <name>Applicant__c</name>
+        <relationshipLabel><!-- Offers --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Created --></label>
+        <name>Created__c</name>
+    </fields>
+    <fields>
+        <label><!-- PTO Days --></label>
+        <name>PTO_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position Salary --></label>
+        <name>Position_Salary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position --></label>
+        <name>Position__c</name>
+        <relationshipLabel><!-- Offers --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Reason Rejected --></label>
+        <name>Reason_Rejected__c</name>
+        <picklistValues>
+            <masterLabel>Benefits</masterLabel>
+            <translation><!-- Benefits --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contract Length</masterLabel>
+            <translation><!-- Contract Length --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Job offer elsewhere</masterLabel>
+            <translation><!-- Job offer elsewhere --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Location</masterLabel>
+            <translation><!-- Location --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Salary terms not met</masterLabel>
+            <translation><!-- Salary terms not met --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unavailable for start date</masterLabel>
+            <translation><!-- Unavailable for start date --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Remote Employee --></label>
+        <name>Remote_Employee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salary Difference --></label>
+        <name>Salary_Difference__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salary Offered --></label>
+        <name>Salary_Offered__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Accepted</masterLabel>
+            <translation><!-- Accepted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Offer pending references</masterLabel>
+            <translation><!-- Offer pending references --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Offered</masterLabel>
+            <translation><!-- Offered --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- You must a salary for a confirmed offer. --></errorMessage>
+        <name>Salary_is_required_on_approved_offers</name>
+    </validationRules>
+</CustomObjectTranslation>

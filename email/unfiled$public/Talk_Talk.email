@@ -1,0 +1,449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+   <strong><title>TalkTalk Business - Test 2</title>   </strong>
+      <style type="text/css">
+         /* Client-specific Styles */
+         #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link. */
+         body{
+	width:100% !important;
+	-webkit-text-size-adjust:100%;
+	-ms-text-size-adjust:100%;
+	margin:0;
+	padding:0;
+	background-color: #f1f2f2;
+}
+         /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+         .ExternalClass {width:100%;} /* Force Hotmail to display emails at full width */
+         .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force 
+
+Hotmail to display normal line spacing.  */
+         #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+         img {
+	outline:none;
+	text-decoration:none;
+	border:none;
+	-ms-interpolation-mode: bicubic;
+	text-align: center;
+}
+         a img {border:none;}
+         .image_fix {display:block;}
+         p {
+	margin: 0px 0px !important;
+	color: #FFFFFF;
+	text-align: left;
+	font-weight: bold;
+	font-size: 12px;
+}
+         table td {
+	border-collapse: collapse;
+}
+         table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+         a {
+	color: #008ed4;
+	text-decoration: none;
+	text-decoration:underline;
+!important;
+	font-weight: bold;
+	font-size: 14px;
+}
+         /*STYLES*/
+         table[class=full] { width:100%; clear:both; }
+         /*IPAD STYLES*/
+         @media only screen and (max-width: 640px) {
+         a[href^="tel"], a[href^="sms"] {
+         text-decoration: none;
+         color: #008ed4;
+         pointer-events: none;
+         cursor: default;
+         }
+         .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+         text-decoration: default;
+         color: #008ed4!important;
+         pointer-events: auto;
+         cursor: default;
+         }
+         table[class=devicewidth] {width: 440px!important;text-align:left!important;}
+         td[class=devicewidth] {width: 440px!important;text-align:left!important;}
+         img[class=devicewidth] {width: 440px!important;text-align:left!important;}
+         img[class=banner] {width: 440px!important;height:147px!important;}
+         table[class=devicewidthinner] {width: 420px!important;text-align:left!important;}
+         table[class=icontext] {width: 345px!important;text-align:left!important;}
+         img[class="colimg2"] {width:420px!important;height:243px!important;}
+         table[class="emhide"]{display: none!important;}
+         img[class="logo"]{width:440px!important;height:180px!important;}
+         
+         }
+         /*IPHONE STYLES*/
+         @media only screen and (max-width: 480px) {
+         a[href^="tel"], a[href^="sms"] {
+         text-decoration: none;
+         color: #008ed4;
+         pointer-events: none;
+         cursor: default;
+         }
+         .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+         text-decoration: default;
+         color: #008ed4!important; 
+         pointer-events: auto;
+         cursor: default;
+         }
+         table[class=devicewidth] {width: 280px!important;text-align:left!important;}
+         td[class=devicewidth] {width: 280px!important;text-align:left!important;}
+         img[class=devicewidth] {width: 280px!important;text-align:left!important;}
+         img[class=banner] {width: 280px!important;height:93px!important;}
+         table[class=devicewidthinner] {width: 260px!important;text-align:left!important;}
+         table[class=icontext] {width: 186px!important;text-align:left!important;}
+         img[class="colimg2"] {width:260px!important;height:150px!important;}
+         table[class="emhide"]{display: none!important;}
+         img[class="logo"]{width:280px!important;height:110px!important;}
+        
+         }
+      body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+.shadow {
+	-webkit-box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.16);
+	-moz-box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.16);
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.16);
+}
+
+      .bloghead {	font-size:30px;
+	font-weight:bold;
+	line-height:32px;
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-right:20px;
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+}
+      .author {	font-size:14px;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+      </style>
+   </head>
+
+<body>
+<!-- THIS IS THE HEADER SECTION -->
+<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
+  <tbody>
+    <tr>
+      <td bgcolor="#ffffff"><table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth">
+        <tbody>
+          <tr>
+            <td width="100%"><table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth">
+              <tbody>
+                <tr>
+                  <td width="100%" height="20"></td>
+                </tr>
+                <tr>
+                  <td valign="middle"><table width="120" align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner">
+                    <tbody>
+                      <tr>
+                        <td align="center" valign="middle" style="font-family: Helvetica, arial, sans-serif; font-size: 13px;color: #ffffff"><img 
+
+src="https://c.na13.content.force.com/servlet/servlet.ImageServer?id=015a0000002mkYG&oid=00D30000000na9A&lastMod=1446654257000" width="104" height="40" 
+
+/></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                    <table width="280" align="right" border="0" cellpadding="0" cellspacing="0" class="emhide">
+                      <tbody>
+                        <tr>
+                          <td align="right" valign="middle" style="font-family: Helvetica, arial, sans-serif; font-size: 13px;color: #ffffff"><!-- button --
+
+></td>
+                        </tr>
+                        <tr>
+                          <td height="40" align="right" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; font-weight:bold; color: #333333; 
+
+text-align:right;line-height: 24px;"><!--/button--><a style="font-weight:normal; color:#231f20; text-decoration:none; line-height:1.3; text-align: 
+
+right;"></a></td>
+                          </tr>
+                      </tbody>
+                    </table></td>
+                </tr>
+                <tr>
+                  <td width="100%" height="20"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+<!-- THIS IS THE BANNER -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="backgroundTable2">
+  <tbody>
+    <tr>
+      <td height="100" align="center" valign="top" bgcolor="#008ed4"><table width="600" height="150" cellpadding="0" cellspacing="0" border="0" 
+
+align="center" class="devicewidth">
+        <tbody>
+          <tr>
+            <td width="100%" height="100" align="center" valign="center"><table width="600" cellpadding="0" cellspacing="0" border="0" align="center" 
+
+class="devicewidth">
+              <tbody>
+                <tr>
+                  <td width="100%" align="left" class="bloghead">Your Case Number: {!Case.CaseNumber}</td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+          </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="backgroundTable8">
+  <tbody>
+    <tr>
+      <td align="center" bgcolor="#f1f2f2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center" valign="bottom"><table width="600" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+        <tbody>
+          <tr>
+            <td class="shadow"><table bgcolor="#ffffff" width="600" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+              <tbody>
+                <tr>
+                  <td><table width="100%" align="left" border="0" cellpadding="20" cellspacing="0" class="devicewidth">
+                    <tbody>
+                      <tr>
+                        <td width="170" align="left" bgcolor="#ffffff">
+<p style="font-size:14px; font-weight:normal; line-height:18px; font-family:Arial, Helvetica, sans-serif; color:#808285;"> Dear {!Contact.FirstName} 
+
+<br /><br />
+
+Thank you for contacting TalkTalk Business 
+<br /><br />
+</p> 
+<table style="font-size:14px; font-weight:normal; line-height:18px; font-family:Arial, Helvetica, sans-serif; color:#808285;" border = 1>
+<tr>
+<td><strong>First name</strong></td>
+<td><strong>OrderNo.</strong></td>
+<td><strong>Status</strong></td>
+</tr>
+
+<tr>
+<td>Julie</td>
+<td>12345</td>
+<td>Pending</td>
+</tr>
+
+<tr>
+<td>Aaron</td>
+<td>67896</td>
+<td>Complete</td>
+</tr>
+
+</table>
+
+<p style="font-size:14px; font-weight:normal; line-height:18px; font-family:Arial, Helvetica, sans-serif; color:#808285;">
+<br />
+Kind regards
+<br /><br />
+Julie
+
+
+</p></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center" valign="bottom">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<!-- THIS IS THE INTRODUCTION -->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="backgroundTable14">
+  <tbody>
+    <tr>
+      <td align="center"><table bgcolor="#f1f2f2" width="500" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth" modulebg="edit">
+        <tbody>
+          <tr>
+            <td width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth">
+              <tbody>
+                <tr>
+                  <td><!--<table width="285" align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                      <tr>
+                        <td width="170" align="left" bgcolor="#FFFFFF">
+
+
+<a href="https://myaccount.talktalkbusiness.co.uk/login/"> 
+
+<img 
+
+src="https://c.na13.content.force.com/servlet/servlet.ImageServer?id=015a0000002mkYV&oid=00D30000000na9A&lastMod=1446654596000" width="100%" border="0" 
+
+/>
+
+</a>
+
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td width="20">&nbsp;</td>
+                              <td><p style="font-size:16px; font-weight:bold; line-height:22px; font-family:Arial, Helvetica, sans-serif; color:#000;">You're 
+
+in control</span><br />
+                              </p>
+                                <p style="font-size:14px; font-weight:normal; line-height:18px; font-family:Arial, Helvetica, sans-serif; color:#808285;">
+<a href="https://myaccount.talktalkbusiness.co.uk/login/">Register now</a>
+</p></td>
+                              <td width="20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                          </table>
+-->
+			</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                    <table width="20" align="left" border="0" cellpadding="0" cellspacing="0" class="removeMobile">
+                      <tbody>
+                        <tr>
+                          <td width="100%" height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                    <table width="230" align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidth">
+                      <tbody>
+                        <tr>
+                          <td width="170" align="left" bgcolor="#FFFFFF"><a href="http://helpbusiness.talktalk.co.uk"><img 
+
+src="https://c.na13.content.force.com/servlet/servlet.ImageServer?id=015a0000002mkYf&oid=00D30000000na9A&lastMod=1446654877000" width="100%" border="0" 
+
+/></a>
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="20">&nbsp;</td>
+                                <td><p style="font-size:16px; font-weight:bold; line-height:22px; font-family:Arial, Helvetica, sans-serif; color:#000;">Here 
+
+to help </span><br />
+                                </p>
+                                  <p style="font-size:14px; font-weight:normal; line-height:18px; font-family:Arial, Helvetica, sans-serif; 
+
+color:#808285;"><a href="http://helpbusiness.talktalk.co.uk">Try it out</a></p></td>
+                                <td width="20">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    
+                 <table width="230" align="right" border="0" cellpadding="0" cellspacing="0" class="devicewidth">
+                      <tbody>
+                        <tr>
+                          <td width="170" align="left" bgcolor="#FFFFFF"><img src="https://c.na13.content.force.com/servlet/servlet.ImageServer?id=015a0000002mkYa&oid=00D30000000na9A&lastMod=1446654734000" width="100%">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="20">&nbsp;</td>
+                                <td><p style="font-size:16px; font-weight:bold; line-height:22px; font-family:Arial, Helvetica, sans-serif; color:#000;">Get in touch<br>
+                                </p>
+                                  <p style="font-size:14px; font-weight:normal; line-height:18px; font-family:Arial, Helvetica, sans-serif; color:#008ed4;"><a href="https://www.talktalkbusiness.co.uk/contact-us/">Here's how</a></p></td>
+                                <td width="20">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+  </tr>
+                            </table></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="backgroundTable13">
+  <tbody>
+    <tr>
+      <td align="center" valign="bottom"><table width="600" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+        <tbody>
+          <tr>
+            <td><table bgcolor="#ffffff" width="600" cellpadding="0" cellspacing="0" border="0" class="devicewidth">
+              <tbody>
+                <tr>
+                  <td><table width="100%" align="left" border="0" cellpadding="20" cellspacing="0" class="devicewidth">
+                    <tbody>
+                      <tr>
+                        <td width="170" align="left" bgcolor="#ffffff"><p style="font-size:14px; font-weight:bold; line-height:22px; font-family:Arial, 
+
+Helvetica, sans-serif; color:#000">We're social too...find us on <a href="https://www.linkedin.com/company/talktalk-business">Linkedin</a> | <a 
+
+href="https://twitter.com/TalkTalkBiz">Twitter</a> | <a href="https://plus.google.com/110297124253337593425/posts">Google+</a></p></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center" valign="bottom">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<!-- IN EMAIL HEADER -->
+</body>
+</html>

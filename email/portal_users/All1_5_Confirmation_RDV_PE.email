@@ -1,0 +1,348 @@
+<table height="400" width="550" cellpadding="5" border="0" cellspacing="5" >
+<tr height="400" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#FFFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r1" locked="0" aEditID="c1r1" >
+<![CDATA[<font size="2" style="font-size: 12pt; "><span style="font-family: Verdana,Helvetica,Sans-Serif;">{!Contact.Title}&nbsp;</span></font><font size="2" style="font-size: 12pt; "><span style="color: black;" lang="DE"><font class="Apple-style-span"><span style="font-family: Verdana,Helvetica,Sans-Serif;">{!Contact.LastName},</span></font></span></font><div style="font-size: 12pt; "><font size="2"><span style="color: black;" lang="DE"><font class="Apple-style-span"><span style="font-family: Verdana,Helvetica,Sans-Serif;"><br></span></font></span></font></div><div style="font-size: 12pt; "><font size="2" style="font-size: 12pt; "><span style="color: black;" lang="DE"><font class="Apple-style-span"><span style="font-family: Verdana,Helvetica,Sans-Serif;"></span><span style="font-family: Verdana,Helvetica,Sans-Serif;">wie gerade telefonisch besprochen, bestätige ich Ihnen folgenden Termin zur Durchführung der Ohrabdrucknahme:</span></font></span></font></div><div style="font-size: 12pt; "><font size="2" style="font-size: 12pt; "><span style="color: black;" lang="DE"><font class="Apple-style-span"><span style="font-family: Verdana,Helvetica,Sans-Serif;"><br></span></font></span></font></div><div><font size="2" style="font-size: 12pt; "><span style="color: black;" lang="DE"><font class="Apple-style-span"><span style="font-family: Verdana,Helvetica,Sans-Serif;"></span></font></span></font><span class="Apple-style-span" style="font-family: Verdana, Helvetica, sans-serif; font-size: small; ">am <b>[Datum]</b> um <b>[Uhrzeit] </b>in</span><p style="text-align: center; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; " class="MsoNormal"><font size="2"><span style="color: black;" lang="DE"><b><font class="Apple-style-span"> {!Account.Name}</font></b></span></font></p><p style="text-align: center; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; " class="MsoNormal"><font size="2"><span style="color: black;" lang="DE"><font class="Apple-style-span"><span style="font-weight: bold;">{!Account.BillingAddress}</span></font></span></font></p><p style="text-align: center; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; " class="MsoNormal"><font size="2"><span style="color: black;" lang="DE"><font class="Apple-style-span"><span style="font-weight: bold;"></span></font></span></font><span class="Apple-style-span" style="font-size: small; ">Bei diesem Treffen wird:</span></p><font size="2" style="font-size: 12pt; "><span style="color: black; font-family: Verdana,Helvetica,Sans-Serif;" lang="DE"><font class="Apple-style-span"><br></font></span></font><div style="margin-left: 40px; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; "><font class="Apple-style-span" size="2"><span style="color: black;" lang="DE">1- der akustische Filter ausgewählt,</span></font></div><div style="margin-left: 40px; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; "><font class="Apple-style-span" size="2"><span style="color: black;" lang="DE"></span></font><span class="Apple-style-span" style="font-size: small; ">2- eine Lärmschulung durchgeführt,</span></div><div style="margin-left: 40px; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; "><span class="Apple-style-span" style="font-size: small; "></span><span class="Apple-style-span" style="font-size: small; ">3- eine Produktschulung durchgeführt,</span></div><div style="margin-left: 40px; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; "><span class="Apple-style-span" style="font-size: small; "></span><span class="Apple-style-span" style="font-size: small; ">4- die Ohrabdrücke abgenommen.</span></div><div style="text-align: left; margin-left: 40px; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; "><span class="Apple-style-span" style="font-size: small; "></span><span class="Apple-style-span" style="font-size: small; ">Anbei erhalten Sie&nbsp;</span></div><ul style="font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; "><li><font class="Apple-style-span" size="2"><span style="color: black;" lang="DE">
+ein Dokument, in dem der Verlauf der Ohrabdrucknahme genau beschrieben wird (</span><b><span style="color: rgb(0, 0, 102);" lang="DE">bitte teilen Sie den Betroffenen mit, dass keine
+Ohrabdrücke abgenommen werden können im Falle von Ohrpfropfen</span></b><span style="color: black;" lang="DE">)</span></font></li></ul><ul style="font-family: Verdana, Helvetica, sans-serif; "><li style="font-size: 12pt; "><font size="2"><span style="color: black;" lang="DE"><font class="Apple-style-span">
+ein Anmeldeformular für Ihre weitere Mitarbeiter, die sich einen angepassten&nbsp;</font></span></font><span class="Apple-style-span" style="font-size: small; ">Gehörschutz wünschen.</span></li></ul><p class="MsoNormal" style="text-align: left; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; " align="left"><font class="Apple-style-span" size="2"><span style="color: black;" lang="DE">
+</span><span style="color: black;" lang="DE">Damit die
+Ohrabdrucknahme reibungslos verläuft, bitte ich Sie, wie vereinbart, den Personen, die ausgestattet werden sollen,&nbsp;Datum, Ort und genaue Zeit des Treffens mitzuteilen. </span><span lang="DE"><br>
+</span><span style="color: black;" lang="DE"></span></font></p><p class="MsoNormal" style="text-align: left; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; " align="left"><font size="2"><span style="color: black;" lang="DE"><font class="Apple-style-span"><br></font></span></font></p><p class="MsoNormal" style="text-align: left; font-family: Verdana, Helvetica, sans-serif; font-size: 12pt; " align="left"><font size="2"><span style="color: black;" lang="DE"><font class="Apple-style-span">Sollten Sie noch Fragen in Bezug auf den Verlauf der Ohrabdrucknahme haben, zögern Sie bitte nicht, mich zu kontaktieren.&nbsp;<br>
+</font></span></font></p><font size="2" style="font-size: 12pt; "><span style="text-decoration: underline; font-family: Verdana,Helvetica,Sans-Serif;"><span style="font-weight: bold;"></span></span></font><p style="font-family: Verdana, Helvetica, sans-serif; color: rgb(0, 0, 0); font-size: 10pt; "><font size="2"><br></font></p><p style="font-family: Verdana, Helvetica, sans-serif; color: rgb(0, 0, 0); font-size: 10pt; "><font size="2"><span class="Apple-style-span">PS. Entdecken Sie </span><span class="Apple-style-span" style="font-weight: bold;">AUDITOOLS</span><span class="Apple-style-span">: die kostenlose Unterstützung beim Management des Lärmrisikos in Ihrem Unternehmen:<br><a href="http://auditools.cotral.de/" target="_blank">http://auditools.cotral.de</a></span></font></p><p style="font-family: Verdana, Helvetica, sans-serif; color: rgb(0, 0, 0); font-size: 10pt; "><font size="2"><br></font></p><p style="font-family: Verdana, Helvetica, sans-serif; color: rgb(0, 0, 0); font-size: 10pt; "><font size="2">Mit freundlichen Grüßen,<br></font></p><font size="2" style="font-size: 12pt; "><span class="Apple-style-span" style="font-family: Verdana,Helvetica,Sans-Serif; font-size: 12pt; font-weight: bold;"><br></span><span class="Apple-style-span" style="font-family: Verdana,Helvetica,Sans-Serif; font-size: 12pt; font-weight: normal;"><span class="Apple-style-span" style="font-size: 12px; font-weight: bold;"><font class="Apple-style-span"><span class="Apple-style-span" style="font-size: 13px; font-weight: normal;"></span></font>{!User.Name}<br><font size="1"><span class="Apple-style-span" style="font-size: 11px; font-weight: normal; color: rgb(102, 102, 102);">{!User.Fonction_Utilisateur__c}<br>{!User.MobilePhone}&nbsp;<br>{!User.Agence_Commerciale__c}<br></span></font></span></span></font><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>FR</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="0" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tableau Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]-->
+
+<p style="font-size: 12pt; font-family: Verdana, Helvetica, sans-serif; color: rgb(0, 0, 153); " class="MsoNormal"><font size="1"><a href="http://www.cotral.de/">www.cotral.de</a></font></p>
+
+<p style="font-family: arial; font-size: 12pt; "><br></p><p style="font-family: arial; font-size: 12pt; "><span class="Apple-style-span" style="color: rgb(23, 97, 171); font-family: verdana, tahoma, 'sans serif'; font-size: 11px; font-weight: bold; ">Die Komplettlösung für den Schutz des Hörvermögens Ihrer Mitarbeiter.</span></p><p style="font-size: 7.5pt; font-family: Verdana; color: gray; "><br>Labor COTRAL GmbH - Lebacher Straße - 4 D-66113 - SAARBRÜCKEN<br>Tel. Nr.: +49 (0)6 81 9963 637 - Fax Nr.: +49
+(0)681 9963621<br>Amtsgericht Saarbrücken HRB-Nr.15601-Geschäftsführer Laurent CAPELLARI<br><br>Zu unserer Homepage&nbsp;<a href="http://www.cotral.de/" style="color: rgb(51, 51, 153);">hier</a><br><br></p><p style="font-size: 7.5pt; font-family: Verdana; color: gray; ">Denken Sie an die Umwelt und drucken Sie diese E-Mail nur aus, wenn es wirklich notwendig ist.</p><p style="font-size: 7.5pt; font-family: Verdana; color: gray; ">Die
+ Informationen in dieser E-Mail enthalten rechtlich geschützte, 
+vertrauliche Informationen. Die in dieser E-Mail enthaltenen 
+Informationen sind ausschließlich für den/die bezeichneten Adressaten 
+bestimmt. Jeglicher Zugriff auf diese E-mail durch andere Personen als 
+den Adressaten ist untersagt. Sollten Sie nicht der für diese E-mail 
+bestimmte Adressat sein, ist die Verwendung, Vervielfältigung oder 
+Weitergabe der Nachrichten und Anhänge untersagt.</p></div>]]></td>
+</tr>
+</table>

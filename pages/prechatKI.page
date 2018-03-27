@@ -1,0 +1,16 @@
+<apex:page showHeader="false"> 
+
+<!-- Use the Live Agent endpoint of the org in the src attribute below, Setup | Customize | Live Agent | Live Agent Settings --> 
+<script type="text/javascript" src="https://d.la1-c2cs-phx.salesforceliveagent.com/content/g/js/36.0/prechat.js"></script> 
+
+<script type="text/javascript"> 
+
+//Use the chat URL from the liveagent.init method from deployment code as the first parameter in the function below 
+liveagent.details.preChatInit('https://d.la1-c2cs-phx.salesforceliveagent.com/chat','laCallBack'); 
+
+function laCallBack(details) { 
+console.log(details); 
+} 
+
+</script> 
+</apex:page>

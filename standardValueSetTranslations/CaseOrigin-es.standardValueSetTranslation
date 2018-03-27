@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Chat</masterLabel>
+        <translation><!-- Chat --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Chatter Answers</masterLabel>
+        <translation><!-- Chatter Answers --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Email</masterLabel>
+        <translation>Correo</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Facebook</masterLabel>
+        <translation><!-- Facebook --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Google+</masterLabel>
+        <translation><!-- Google+ --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Include</masterLabel>
+        <translation><!-- Include --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Other Social Media</masterLabel>
+        <translation><!-- Other Social Media --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Phone</masterLabel>
+        <translation><!-- Phone --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Self-Service Portal</masterLabel>
+        <translation><!-- Self-Service Portal --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Twitter</masterLabel>
+        <translation><!-- Twitter --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Web</masterLabel>
+        <translation><!-- Web --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>address 1</masterLabel>
+        <translation><!-- address 1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>address 2</masterLabel>
+        <translation><!-- address 2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>address 3</masterLabel>
+        <translation><!-- address 3 --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

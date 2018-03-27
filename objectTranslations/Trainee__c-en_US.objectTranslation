@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Trainee</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Trainees</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account2__c</name>
+        <relationshipLabel><!-- Trainees (Account) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Trainees --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Balance Due --></label>
+        <name>Balance_Due__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingState --></label>
+        <name>BillingState__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date of Birth --></label>
+        <name>Date_of_Birth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Job Role --></label>
+        <name>Job_Role__c</name>
+        <picklistValues>
+            <masterLabel>Consultant</masterLabel>
+            <translation><!-- Consultant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IT Administrator</masterLabel>
+            <translation><!-- IT Administrator --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marketing Agent</masterLabel>
+            <translation><!-- Marketing Agent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marketing Manager</masterLabel>
+            <translation><!-- Marketing Manager --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales Director</masterLabel>
+            <translation><!-- Sales Director --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales Engineer</masterLabel>
+            <translation><!-- Sales Engineer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales Rep</masterLabel>
+            <translation><!-- Sales Rep --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Support Director</masterLabel>
+            <translation><!-- Support Director --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Support Rep</masterLabel>
+            <translation><!-- Support Rep --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Picklist field --></label>
+        <name>Picklist_field__c</name>
+        <picklistValues>
+            <masterLabel>Activity value1</masterLabel>
+            <translation><!-- Activity value1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Activity value2</masterLabel>
+            <translation><!-- Activity value2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trainee value1</masterLabel>
+            <translation><!-- Trainee value1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trainee value2</masterLabel>
+            <translation><!-- Trainee value2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total amount paid --></label>
+        <name>Total_amount_paid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total courses Attended --></label>
+        <name>Total_courses_Attended__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total courses amount --></label>
+        <name>Total_courses_amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Price Book --></label>
+        <name>pricebook__c</name>
+        <relationshipLabel><!-- Trainees --></relationshipLabel>
+    </fields>
+    <recordTypes>
+        <label><!-- Activty record type --></label>
+        <name>Activty_record_type</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Trainee record type --></label>
+        <name>Trainee_record_type</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Checkboxes_in_related_list --></label>
+        <name>Checkboxes_in_related_list</name>
+    </webLinks>
+</CustomObjectTranslation>

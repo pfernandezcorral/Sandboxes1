@@ -1,0 +1,5 @@
+There is no case thread id in the subject
+
+Time now: {!Case.NOW__c}
+
+Date/time with default NOW: {!Case.Date_time_field__c}

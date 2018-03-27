@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Number</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Number</value>
+    </caseValues>
+    <fields>
+        <label><!-- Number High --></label>
+        <name>Number_High__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number Low --></label>
+        <name>Number_Low__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

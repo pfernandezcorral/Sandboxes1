@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Test Object German</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Test Objects German</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value>Test Object German</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value>Test Objects German</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value>Test Object German</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value>Test Objects German</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>Test Object German</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value>Test Objects German</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Test Objects --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Actual Deployment Date --></label>
+        <name>Actual_Deployment_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case --></label>
+        <name>Case__c</name>
+        <relationshipLabel><!-- Test Objects (Case) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Caso --></label>
+        <name>Caso__c</name>
+        <relationshipLabel><!-- Test Objects (Caso) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Buuuuuu ID --></label>
+        <name>Customer__c</name>
+    </fields>
+    <fields>
+        <label><!-- Days --></label>
+        <name>Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- Days to/since expected fix date --></label>
+        <name>Days_to_since_expected_fix_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expected Fix Date --></label>
+        <name>Expected_Fix_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Priority --></label>
+        <name>Priority__c</name>
+        <picklistValues>
+            <masterLabel>P1</masterLabel>
+            <translation>PI in german</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P2</masterLabel>
+            <translation><!-- P2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P3</masterLabel>
+            <translation><!-- P3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P4</masterLabel>
+            <translation><!-- P4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P5</masterLabel>
+            <translation><!-- P5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Ready for Deployment --></label>
+        <name>Ready_for_Deployment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Deployed</masterLabel>
+            <translation><!-- Deployed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Investigating</masterLabel>
+            <translation><!-- Investigating --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Patch Creation</masterLabel>
+            <translation><!-- Patch Creation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Patch Testing</masterLabel>
+            <translation><!-- Patch Testing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reproduction</masterLabel>
+            <translation><!-- Reproduction --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Subject --></label>
+        <name>Subject__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Bug Duration --></label>
+        <name>Total_Bug_Duration__c</name>
+    </fields>
+    <fields>
+        <label><!-- date time --></label>
+        <name>date_time__c</name>
+    </fields>
+    <fields>
+        <label><!-- entra --></label>
+        <name>entra__c</name>
+    </fields>
+    <fields>
+        <label><!-- sale --></label>
+        <name>sale__c</name>
+    </fields>
+    <gender>Neuter</gender>
+    <nameFieldLabel>Record</nameFieldLabel>
+    <recordTypes>
+        <label><!-- PC Bug --></label>
+        <name>PC_Bug</name>
+    </recordTypes>
+</CustomObjectTranslation>

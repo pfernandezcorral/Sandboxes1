@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Bill Information</label>
+    <processType>Flow</processType>
+    <steps>
+        <description>Capture bill amount and service quality</description>
+        <name>Bill_Informartion_Step</name>
+        <label>Bill Informartion Step</label>
+        <locationX>149</locationX>
+        <locationY>101</locationY>
+        <connectors>
+            <targetReference>Tip_Amount_Step</targetReference>
+        </connectors>
+    </steps>
+    <steps>
+        <description>Display Tip Amount</description>
+        <name>Tip_Amount_Step</name>
+        <label>Tip Amount Step</label>
+        <locationX>276</locationX>
+        <locationY>245</locationY>
+    </steps>
+</Flow>

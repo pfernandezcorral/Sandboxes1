@@ -8,7 +8,6 @@
     <enableSelfCloseCase>false</enableSelfCloseCase>
     <forgotPassTemplate>unfiled$public/ChangePwdEmail1</forgotPassTemplate>
     <isSelfRegistrationActivated>false</isSelfRegistrationActivated>
-    <logoDocument>SFGA__SalesforceforGoogleAdWordsDocuments/SFGA__SalesforceforGoogleAdWordsLogo.gif</logoDocument>
     <newPassTemplate>unfiled$public/ChangePwdEmail1</newPassTemplate>
     <newUserTemplate>unfiled$public/NewUserEmail1</newUserTemplate>
     <selfRegUserTemplate>unfiled$public/SelfRegUserEmail</selfRegUserTemplate>

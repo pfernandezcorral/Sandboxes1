@@ -1,333 +1,329 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <label></label>
+        <label><!-- Account record type --></label>
         <name>Account_record_type__c</name>
     </fields>
     <fields>
-        <help></help>
-        <label></label>
+        <help><!-- Choose the browser you are currently using. --></help>
+        <label><!-- Browser --></label>
         <name>Browser__c</name>
         <picklistValues>
             <masterLabel>Chrome</masterLabel>
-            <translation></translation>
+            <translation><!-- Chrome --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Firefox</masterLabel>
-            <translation></translation>
+            <translation><!-- Firefox --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Internet Explorer</masterLabel>
-            <translation></translation>
+            <translation><!-- Internet Explorer --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Mozilla</masterLabel>
-            <translation></translation>
+            <translation><!-- Mozilla --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Netscape</masterLabel>
-            <translation></translation>
+            <translation><!-- Netscape --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Opera</masterLabel>
-            <translation></translation>
+            <translation><!-- Opera --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Other</masterLabel>
-            <translation></translation>
+            <translation><!-- Other --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Safari</masterLabel>
-            <translation></translation>
+            <translation><!-- Safari --></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Business hours --></label>
         <name>Business_hours__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Case WWW --></label>
         <name>Case_WWW__c</name>
         <picklistValues>
             <masterLabel>April</masterLabel>
-            <translation></translation>
+            <translation><!-- April --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>February</masterLabel>
-            <translation></translation>
+            <translation><!-- February --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>January</masterLabel>
-            <translation></translation>
+            <translation><!-- January --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>March</masterLabel>
-            <translation></translation>
+            <translation><!-- March --></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Date time field --></label>
         <name>Date_time_field__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Entitlement Custom --></label>
         <name>Entitlement_Custom__c</name>
-        <relationshipLabel></relationshipLabel>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Incident Date/Time --></label>
         <name>Incident_Date_Time__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Job Finish Date/Time --></label>
         <name>Job_Finish_Date_Time__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Job Incident BH --></label>
         <name>Job_Incident_BH__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- NOW-1h --></label>
         <name>NOW_1h__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- NOW --></label>
         <name>NOW__c</name>
     </fields>
     <fields>
-        <label></label>
-        <name>New_Email__c</name>
-    </fields>
-    <fields>
-        <label></label>
+        <label><!-- On Hold Time --></label>
         <name>On_Hold_Time__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- On Hold --></label>
         <name>On_Hold__c</name>
     </fields>
     <fields>
-        <help></help>
-        <label></label>
+        <help><!-- Choose the operating system you are currently using. --></help>
+        <label><!-- Operating System --></label>
         <name>Operating_System__c</name>
         <picklistValues>
             <masterLabel>Linux</masterLabel>
-            <translation></translation>
+            <translation><!-- Linux --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Macintosh</masterLabel>
-            <translation></translation>
+            <translation><!-- Macintosh --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Other</masterLabel>
-            <translation></translation>
+            <translation><!-- Other --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Windows</masterLabel>
-            <translation></translation>
+            <translation><!-- Windows --></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Opportunity --></label>
         <name>Opportunity__c</name>
-        <relationshipLabel></relationshipLabel>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- RMA Number --></label>
         <name>RMA_Number__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Region --></label>
         <name>Region__c</name>
         <picklistValues>
             <masterLabel>APAC</masterLabel>
-            <translation></translation>
+            <translation><!-- APAC --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>EMEA</masterLabel>
-            <translation></translation>
+            <translation><!-- EMEA --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>US</masterLabel>
-            <translation></translation>
+            <translation><!-- US --></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- SIST - SIST --></label>
         <name>SIST_SIST__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Service Impact Start Time --></label>
         <name>Service_Impact_Start_Time__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Service Impact Stop Time --></label>
         <name>Service_Impact_Stop_Time__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Service Unavailable Formatted SF support --></label>
         <name>Service_Unavailable_Formatted_SF_support__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Service Unavailable for SF support --></label>
         <name>Service_Unavailable_for_SF_support__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Signature --></label>
         <name>Signature__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Status sefl service --></label>
         <name>Status_sefl_service__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Support Level --></label>
         <name>Support_Level__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Support and Maintenance Expiration --></label>
         <name>Support_and_Maintenance_Expiration__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Time current owner selected --></label>
         <name>Time_owner__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Time previous owner had the case --></label>
         <name>Time_recorded__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- Username --></label>
         <name>Username__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- account date --></label>
         <name>account_date__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- account id --></label>
         <name>account_id__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- amount --></label>
         <name>amount__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- bla bla email --></label>
         <name>bla_bla_email__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- case origin custom --></label>
         <name>case_origin_custom__c</name>
         <picklistValues>
             <masterLabel>EMEA</masterLabel>
-            <translation></translation>
+            <translation><!-- EMEA --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Support</masterLabel>
-            <translation></translation>
+            <translation><!-- Support --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>US</masterLabel>
-            <translation></translation>
+            <translation><!-- US --></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- create date case --></label>
         <name>create_date_case__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- handled by --></label>
         <name>handled_by__c</name>
-        <relationshipLabel></relationshipLabel>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- multi Javier2 --></label>
         <name>multi_Javier2__c</name>
         <picklistValues>
             <masterLabel>otro1</masterLabel>
-            <translation></translation>
+            <translation><!-- otro1 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>otro2</masterLabel>
-            <translation></translation>
+            <translation><!-- otro2 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>otro3</masterLabel>
-            <translation></translation>
+            <translation><!-- otro3 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>otro4</masterLabel>
-            <translation></translation>
+            <translation><!-- otro4 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>otro5</masterLabel>
-            <translation></translation>
+            <translation><!-- otro5 --></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- multi Javier --></label>
         <name>multi_Javier__c</name>
         <picklistValues>
             <masterLabel>Valor1</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor1 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor2</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor2 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor3</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor3 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor4</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor4 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor5</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor5 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor6</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor6 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor7</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor7 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor8</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor8 --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Valor9</masterLabel>
-            <translation></translation>
+            <translation><!-- Valor9 --></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- New Email --></label>
         <name>new_Email__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- now - SIST --></label>
         <name>now_SIST__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- test user id --></label>
         <name>test_user_id__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- testcustom1 --></label>
         <name>testcustom__c</name>
-        <relationshipLabel></relationshipLabel>
+        <relationshipLabel><!-- Cases --></relationshipLabel>
     </fields>
     <fields>
-        <label></label>
+        <label><!-- text 5000 --></label>
         <name>text_5000__c</name>
     </fields>
     <recordTypes>
-        <label></label>
+        <label><!-- Case Type2 --></label>
         <name>Case_Type2</name>
     </recordTypes>
     <recordTypes>
@@ -335,27 +331,27 @@
         <name>Case_type</name>
     </recordTypes>
     <recordTypes>
-        <label></label>
+        <label><!-- Feed base layout RT --></label>
         <name>Feedbase_layout_RT</name>
     </recordTypes>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- no puedes editar este caso --></errorMessage>
         <name>No_change_status_when_closed</name>
     </validationRules>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Account type must be different from 1 in the account. --></errorMessage>
         <name>Validation_on_account_field</name>
     </validationRules>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- this user has permission set audit field which is in a validation rule. Check the validation rule --></errorMessage>
         <name>permission_set_test</name>
     </validationRules>
     <webLinks>
-        <label></label>
+        <label><!-- Custom_Button --></label>
         <name>Custom_Button</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label><!-- Custom_Button2 --></label>
         <name>Custom_Button2</name>
     </webLinks>
 </CustomObjectTranslation>

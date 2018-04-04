@@ -518,16 +518,10 @@
             <quickActionName>Case.Csocial</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>Case.LogACall</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>Case.Log</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Case.Close_Case_Custom</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>Case.ChangeStatus</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>FeedItem.ContentPost</quickActionName>
@@ -600,13 +594,6 @@
         <fields>CASES.STATUS</fields>
         <fields>OWNER_NAME</fields>
         <relatedList>RelatedChildCaseList</relatedList>
-    </relatedLists>
-    <relatedLists>
-        <fields>SOLUTION.ISSUE</fields>
-        <fields>SOLUTION.SOLUTION_NUMBER</fields>
-        <fields>SOLUTION.STATUS</fields>
-        <fields>CORE.USERS.ALIAS</fields>
-        <relatedList>RelatedSolutionList</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>

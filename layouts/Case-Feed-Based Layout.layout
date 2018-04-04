@@ -456,9 +456,6 @@
             <quickActionName>FeedItem.LinkPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>Case.ChangeStatus</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>LogACall</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
@@ -534,13 +531,6 @@
         <fields>CASES.STATUS</fields>
         <fields>OWNER_NAME</fields>
         <relatedList>RelatedChildCaseList</relatedList>
-    </relatedLists>
-    <relatedLists>
-        <fields>SOLUTION.ISSUE</fields>
-        <fields>SOLUTION.SOLUTION_NUMBER</fields>
-        <fields>SOLUTION.STATUS</fields>
-        <fields>CORE.USERS.ALIAS</fields>
-        <relatedList>RelatedSolutionList</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>
